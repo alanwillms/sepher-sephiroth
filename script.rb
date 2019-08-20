@@ -1,43 +1,13 @@
 require 'json'
-
-class GematricNumber
-  attr_accessor :number
-  attr_accessor :desc
-
-  def initialize
-    @tags = []
-    @words = []
-    @desc = ''
-  end
-
-  def add_tag(name)
-    @tags << name
-  end
-
-  def add_word(word)
-    @words << word
-  end
-
-  def as_json(options={})
-    {
-      number: number,
-      desc: desc,
-      # tags: @tags.uniq,
-      words: @words
-    }
-  end
-
-  def to_json(*options)
-    as_json(*options).to_json(*options)
-  end
-end
+require_relative 'lib/gematric_number'
+require_relative 'lib/hebrew_word'
 
 tokens = {
   perfect_number: ['P#'],
-  factorial_of: [':\s*\d+.', '.--'],
-  sub_factorial_of: ['::\s*\d+.', ':.--'],
+  factorial_of: ['\:\s{0,}\d{1,}\.', '\.\-\-'],
+  sub_factorial_of: ['\:\:\s*\d+\.', ':\.-\-'],
   pi: ['Pi'],
-  square_root: ['Sq.Rt.']
+  square_root: ['Sq\.Rt\.']
 }
 
 class String
@@ -46,35 +16,18 @@ class String
   end
 end
 
-class HebrewWord
-  attr_accessor :word, :desc
-
-  def as_json(options={})
-    {
-      word: word,
-      desc: desc
-    }
-  end
-
-  def to_json(*options)
-    as_json(*options).to_json(*options)
-  end
-end
-
 entries = []
 
 current_entry = GematricNumber.new
 current_word = HebrewWord.new
 
-
 File.readlines('input2.txt').each do |line|
   line = line.strip
+  line = line.gsub(/\s*\{\d*(a|b)\}/, '')
   read_words = true
 
   # If there is a number at the end of line
-  end_of_line = line.split(' ').last
-
-  if end_of_line && end_of_line.is_i?
+  if m = /\s(\d{1,})$/.match(line)
     read_words = false
 
     unless current_entry.number.nil?
@@ -83,13 +36,14 @@ File.readlines('input2.txt').each do |line|
       current_entry = GematricNumber.new
       current_word = HebrewWord.new
     end
-    current_entry.number = end_of_line.to_i
+    current_entry.number = m[1].to_i
+    line = line.gsub(/\s(\d{1,})$/, '')
   end
 
   # Check number for attributes
   tokens.each do |token, expressions|
     expressions.each do |expression|
-      regex = Regexp.new('\s' + expression + '(\s|$)')
+      regex = Regexp.new('(\s|^)' + expression + '(\s|$)')
       if line.match? regex
         current_entry.add_tag(token)
         line = line.gsub(regex, '')
@@ -98,15 +52,13 @@ File.readlines('input2.txt').each do |line|
   end
 
   ending = line[37..]
-  beginning = (' ' + line[0..36] + ' ')
+  beginning = line[0..36]
 
   # There is a new word at the far right?
   if read_words
     if ending.nil?
       if current_word.word.nil?
-        current_entry.desc = '' if current_entry.desc.nil?
-        current_entry.desc += beginning
-        current_entry.desc = current_entry.desc.gsub(/\s{2,}/, ' ').strip
+        current_entry.append_desc beginning
 
         # Skips
         next
@@ -120,13 +72,9 @@ File.readlines('input2.txt').each do |line|
       current_word.word = ending
     end
 
-    current_word.desc = '' if current_word.desc.nil?
-    current_word.desc += beginning
-    current_word.desc = current_word.desc.gsub(/\s{2,}/, ' ').strip
+    current_word.append_desc beginning
   else
-    current_entry.desc = '' if current_entry.desc.nil?
-    current_entry.desc += beginning
-    current_entry.desc = current_entry.desc.gsub(/\s{2,}/, ' ').strip
+    current_entry.append_desc beginning
   end
 end
 
