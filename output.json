@@ -12,6 +12,7 @@
     "words": [
       {
         "word": "A:A:",
+        "hebrew": ":א:א",
         "desc": "[Abbreviation for 422, ARYK ANPYN, q.v.]"
       }
     ]
@@ -22,10 +23,12 @@
     "words": [
       {
         "word": "AB",
+        "hebrew": "בא",
         "desc": "Father"
       },
       {
         "word": "BA",
+        "hebrew": "אב",
         "desc": "To come, go"
       }
     ]
@@ -36,14 +39,17 @@
     "words": [
       {
         "word": "ABA",
+        "hebrew": "אבא",
         "desc": "Father"
       },
       {
         "word": "BB",
+        "hebrew": "בב",
         "desc": "Hollow; a vein"
       },
       {
         "word": "GA",
+        "hebrew": "אג",
         "desc": "Proud"
       }
     ]
@@ -54,10 +60,12 @@
     "words": [
       {
         "word": "AD",
+        "hebrew": "דא",
         "desc": "Mist, vapour"
       },
       {
         "word": "BG",
+        "hebrew": "גב",
         "desc": "Back"
       }
     ]
@@ -68,18 +76,22 @@
     "words": [
       {
         "word": "GBA",
+        "hebrew": "אבג",
         "desc": "To gather, collect"
       },
       {
         "word": "GG",
+        "hebrew": "גג",
         "desc": "Gog, the giant whose partner is Magog"
       },
       {
         "word": "DB",
+        "hebrew": "בד",
         "desc": "A bear"
       },
       {
         "word": "HA",
+        "hebrew": "אה",
         "desc": "A window"
       }
     ]
@@ -90,30 +102,37 @@
     "words": [
       {
         "word": "ABD",
+        "hebrew": "דבא",
         "desc": "Lost, ruined"
       },
       {
         "word": "AHA",
+        "hebrew": "אהא",
         "desc": "A name of GOD attributed to Venus. Initials of Adonai ha-Aretz"
       },
       {
         "word": "AV",
+        "hebrew": "וא",
         "desc": "Desire; either, or"
       },
       {
         "word": "GD",
+        "hebrew": "דג",
         "desc": "Gad, a Tribe of Israel; good fortune"
       },
       {
         "word": "DAB",
+        "hebrew": "באד",
         "desc": "Was weary"
       },
       {
         "word": "DBA",
+        "hebrew": "אבד",
         "desc": "Riches, power"
       },
       {
         "word": "DG",
+        "hebrew": "גד",
         "desc": "Fish"
       }
     ]
@@ -124,34 +143,42 @@
     "words": [
       {
         "word": "ABH",
+        "hebrew": "הבא",
         "desc": "To will, intend"
       },
       {
         "word": "AHB",
+        "hebrew": "בהא",
         "desc": "Desired, beloved"
       },
       {
         "word": "AVA",
+        "hebrew": "אוא",
         "desc": ""
       },
       {
         "word": "AZ",
+        "hebrew": "זא",
         "desc": "Then"
       },
       {
         "word": "BAH",
+        "hebrew": "האב",
         "desc": "The entrance, threshold"
       },
       {
         "word": "DAG",
+        "hebrew": "גאד",
         "desc": "To be anxious, grieve"
       },
       {
         "word": "DD",
+        "hebrew": "דד",
         "desc": "Love; beloved, breast; pleasures of love"
       },
       {
         "word": "ZA",
+        "hebrew": "אז",
         "desc": "Nqn. Zauir Anpin 478 q.v."
       }
     ]
@@ -162,30 +189,37 @@
     "words": [
       {
         "word": "AVB",
+        "hebrew": "בוא",
         "desc": "Ventriloquus: the special 'fire' of black magic, whence Obi, Obeah. Cf. 11 and 207"
       },
       {
         "word": "AZA",
+        "hebrew": "אזא",
         "desc": "He kindled"
       },
       {
         "word": "ACh",
+        "hebrew": "חא",
         "desc": "Brother"
       },
       {
         "word": "BGD",
+        "hebrew": "דגב",
         "desc": "A garment"
       },
       {
         "word": "GAH",
+        "hebrew": "האג",
         "desc": "Became powerful, grew high"
       },
       {
         "word": "GV",
+        "hebrew": "וג",
         "desc": "Middle"
       },
       {
         "word": "HD",
+        "hebrew": "דה",
         "desc": "Splendour; cf. 15"
       }
     ]
@@ -196,34 +230,42 @@
     "words": [
       {
         "word": "AT",
+        "hebrew": "טא",
         "desc": "Enchanter"
       },
       {
         "word": "BGH",
+        "hebrew": "הגב",
         "desc": "[Vide K.D. L.C.K. p. 185]"
       },
       {
         "word": "GBH",
+        "hebrew": "הבג",
         "desc": "Elevated, exalted, high"
       },
       {
         "word": "DAH",
+        "hebrew": "האד",
         "desc": "Flew, soared"
       },
       {
         "word": "DV",
+        "hebrew": "וד",
         "desc": "Two"
       },
       {
         "word": "HH",
+        "hebrew": "הה",
         "desc": "Window"
       },
       {
         "word": "ZAB",
+        "hebrew": "באז",
         "desc": "A wolf"
       },
       {
         "word": "ChB",
+        "hebrew": "בח",
         "desc": "A hidden place; bosom"
       }
     ]
@@ -234,38 +276,47 @@
     "words": [
       {
         "word": "AHH",
+        "hebrew": "ההא",
         "desc": "Ahah"
       },
       {
         "word": "AVD",
+        "hebrew": "דוא",
         "desc": "Firebrand, volcanic fire: the Special 'fire' or 'light' of the Sacred Magic of Light, Life, and Love; hence \"Odic Force\" &c. Cf. 9 and 207"
       },
       {
         "word": "AY",
+        "hebrew": "יא",
         "desc": "Where"
       },
       {
         "word": "BBVA",
+        "hebrew": "אובב",
         "desc": "When"
       },
       {
         "word": "GDD",
+        "hebrew": "דדג",
         "desc": "To tear, cut, attack"
       },
       {
         "word": "DHB",
+        "hebrew": "בהד",
         "desc": "Gold (Ch.)"
       },
       {
         "word": "ZD",
+        "hebrew": "דז",
         "desc": "Proud, haughty"
       },
       {
         "word": "ChBA",
+        "hebrew": "אבח",
         "desc": "To conceal"
       },
       {
         "word": "ChG",
+        "hebrew": "גח",
         "desc": "A circularity of form or motion; a feast"
       }
     ]
@@ -276,38 +327,47 @@
     "words": [
       {
         "word": "AVH",
+        "hebrew": "הוא",
         "desc": "He longed for, missed"
       },
       {
         "word": "AZD",
+        "hebrew": "דזא",
         "desc": "He departed, went forth"
       },
       {
         "word": "GT",
+        "hebrew": "טג",
         "desc": "A little book, pamphlet, letter; tools"
       },
       {
         "word": "DGH",
+        "hebrew": "הגד",
         "desc": "To multiply"
       },
       {
         "word": "HBH",
+        "hebrew": "הבה",
         "desc": "A city of Edom"
       },
       {
         "word": "HVA",
+        "hebrew": "אוה",
         "desc": "HE. [HB:H is referred to Mater, HB:V to Pater, HB:A to Corona]"
       },
       {
         "word": "VV",
+        "hebrew": "וו",
         "desc": "Vau; hook, nail, pin"
       },
       {
         "word": "ZH",
+        "hebrew": "הז",
         "desc": "This, that"
       },
       {
         "word": "ChD",
+        "hebrew": "דח",
         "desc": "To penetrate, be sharp; (Ch.) one"
       }
     ]
@@ -318,58 +378,72 @@
     "words": [
       {
         "word": "AGDH",
+        "hebrew": "הדגא",
         "desc": "A small bundle, bunch"
       },
       {
         "word": "AHBH",
+        "hebrew": "הבהא",
         "desc": "Beloved; Love"
       },
       {
         "word": "AChD",
+        "hebrew": "דחא",
         "desc": "Unity"
       },
       {
         "word": "AYB",
+        "hebrew": "ביא",
         "desc": "Hated"
       },
       {
         "word": "BHV",
+        "hebrew": "והב",
         "desc": "Emptiness"
       },
       {
         "word": "GHH",
+        "hebrew": "ההג",
         "desc": "Raised up"
       },
       {
         "word": "GY",
+        "hebrew": "יג",
         "desc": "Chokmah, 42-fold Name in Yetzirah. (See 777)"
       },
       {
         "word": "DAGH",
+        "hebrew": "הגאד",
         "desc": "Anxiety"
       },
       {
         "word": "DVG",
+        "hebrew": "גוד",
         "desc": "A fisher"
       },
       {
         "word": "HGH",
+        "hebrew": "הגה",
         "desc": "Thunder; to meditate; he remembers"
       },
       {
         "word": "HDD",
+        "hebrew": "דדה",
         "desc": "A city of Edom"
       },
       {
         "word": "ZV",
+        "hebrew": "וז",
         "desc": "Here; this"
       },
       {
         "word": "ChGB",
+        "hebrew": "בגח",
         "desc": "A locust"
       },
       {
         "word": "YBA",
+        "hebrew": "אבי",
         "desc": "He shall come"
       }
     ]
@@ -380,34 +454,42 @@
     "words": [
       {
         "word": "ATD",
+        "hebrew": "דטא",
         "desc": "Rhamnus; a thorn, spine"
       },
       {
         "word": "GYA",
+        "hebrew": "איג",
         "desc": "Rising ground; Earth of Geburah. (See 777)"
       },
       {
         "word": "DBCh",
+        "hebrew": "חבד",
         "desc": "Sacrifice v. s. (Ch.). (?)"
       },
       {
         "word": "DVD",
+        "hebrew": "דוד",
         "desc": "Love, beloved: David"
       },
       {
         "word": "HB HB",
+        "hebrew": "בה בה",
         "desc": "Give, give! [Vide no. 17, YHB}"
       },
       {
         "word": "HDH",
+        "hebrew": "הדה",
         "desc": "To grind, direct, stretch out"
       },
       {
         "word": "ZHB",
+        "hebrew": "בהז",
         "desc": "Gold"
       },
       {
         "word": "YD",
+        "hebrew": "די",
         "desc": "Hand"
       }
     ]
@@ -418,38 +500,47 @@
     "words": [
       {
         "word": "ABVHA",
+        "hebrew": "אהובא",
         "desc": "Angel of 3rd Dec. Sagittarius"
       },
       {
         "word": "ABYB",
+        "hebrew": "ביבא",
         "desc": "The month of Exodus and Passover"
       },
       {
         "word": "AYD",
+        "hebrew": "דיא",
         "desc": "Steam, vapour"
       },
       {
         "word": "GAVH",
+        "hebrew": "הואג",
         "desc": "Pride; a carrying out; exaltation"
       },
       {
         "word": "HVD",
+        "hebrew": "דוה",
         "desc": "Splendour, the Eighth Sephira"
       },
       {
         "word": "ZVB",
+        "hebrew": "בוז",
         "desc": "Overflowing, abounding"
       },
       {
         "word": "ZCh",
+        "hebrew": "חז",
         "desc": "He who impels; to force"
       },
       {
         "word": "ChBH",
+        "hebrew": "הבח",
         "desc": "To hide"
       },
       {
         "word": "YH",
+        "hebrew": "הי",
         "desc": "The Monogram of the Eternal"
       }
     ]
@@ -460,30 +551,37 @@
     "words": [
       {
         "word": "AZVB",
+        "hebrew": "בוזא",
         "desc": "Hyssopus"
       },
       {
         "word": "AChZ",
+        "hebrew": "זחא",
         "desc": "He seized, cleaved to"
       },
       {
         "word": "GBVH",
+        "hebrew": "הובג",
         "desc": "Elevated, exalted, high"
       },
       {
         "word": "HVH",
+        "hebrew": "הוה",
         "desc": "(Verb. subst.) Injury, war, lust; fell"
       },
       {
         "word": "HYA",
+        "hebrew": "איה",
         "desc": "She"
       },
       {
         "word": "VY",
+        "hebrew": "יו",
         "desc": "Alas! --- Woe"
       },
       {
         "word": "ZVG",
+        "hebrew": "גוז",
         "desc": "Like, equal to"
       }
     ]
@@ -494,58 +592,72 @@
     "words": [
       {
         "word": "AGVZ",
+        "hebrew": "זוגא",
         "desc": "Nuts"
       },
       {
         "word": "AVY",
+        "hebrew": "יוא",
         "desc": "Ah! --- Alas!"
       },
       {
         "word": "GDY",
+        "hebrew": "ידג",
         "desc": "Capricornus"
       },
       {
         "word": "GYD",
+        "hebrew": "דיג",
         "desc": "Nerve, sinew. [Gen. xxxii. 25 & 32]"
       },
       {
         "word": "HGDH",
+        "hebrew": "הדגה",
         "desc": "Narrative, subtle discourse"
       },
       {
         "word": "HHVA",
+        "hebrew": "אוהה",
         "desc": "K.D. L.C.K. p. 267"
       },
       {
         "word": "HZH",
+        "hebrew": "הזה",
         "desc": "To dream, rave"
       },
       {
         "word": "ZBVB",
+        "hebrew": "בובז",
         "desc": "A fly"
       },
       {
         "word": "ZBCh",
+        "hebrew": "חבז",
         "desc": "Sacrificed"
       },
       {
         "word": "ZVD",
+        "hebrew": "דוז",
         "desc": "To seethe, boil"
       },
       {
         "word": "ChDH",
+        "hebrew": "הדח",
         "desc": "To brighten, make joyful"
       },
       {
         "word": "ChVG",
+        "hebrew": "גוח",
         "desc": "A circle, orbit"
       },
       {
         "word": "TVB",
+        "hebrew": "בוט",
         "desc": "Good"
       },
       {
         "word": "YHB",
+        "hebrew": "בהי",
         "desc": "To give, place"
       }
     ]
@@ -556,22 +668,27 @@
     "words": [
       {
         "word": "AHBY",
+        "hebrew": "יבהא",
         "desc": "My favourite, my beloved"
       },
       {
         "word": "AYBH",
+        "hebrew": "הביא",
         "desc": "Hatred"
       },
       {
         "word": "ChTA",
+        "hebrew": "אטח",
         "desc": "The antique Serpent"
       },
       {
         "word": "ChY",
+        "hebrew": "יח",
         "desc": "Living"
       },
       {
         "word": "YAVA",
+        "hebrew": "אואי",
         "desc": "Notariqon of Yehi Aur, etc."
       }
     ]
@@ -582,22 +699,27 @@
     "words": [
       {
         "word": "AHVZ",
+        "hebrew": "זוהא",
         "desc": "Angel L.T.D. of Sagittarius"
       },
       {
         "word": "AVYB",
+        "hebrew": "ביוא",
         "desc": "An enemy"
       },
       {
         "word": "AYVB",
+        "hebrew": "בויא",
         "desc": "Job"
       },
       {
         "word": "DYH",
+        "hebrew": "היד",
         "desc": "Was black"
       },
       {
         "word": "ChVH",
+        "hebrew": "הוח",
         "desc": "Chavvah; to manifest, shew forth; Eve"
       }
     ]
@@ -608,26 +730,32 @@
     "words": [
       {
         "word": "AChVH",
+        "hebrew": "הוחא",
         "desc": "Fraternity"
       },
       {
         "word": "DYV",
+        "hebrew": "ויד",
         "desc": "Black liquid"
       },
       {
         "word": "HYH",
+        "hebrew": "היה",
         "desc": "It was"
       },
       {
         "word": "ChZH",
+        "hebrew": "הזח",
         "desc": "The breast; a vision; a prophet to gaze"
       },
       {
         "word": "YVBB",
+        "hebrew": "בבוי",
         "desc": "Jobab, an Edomite King"
       },
       {
         "word": "YVD",
+        "hebrew": "דוי",
         "desc": "The hand"
       }
     ]
@@ -638,26 +766,32 @@
     "words": [
       {
         "word": "AHYH",
+        "hebrew": "היהא",
         "desc": "Existence, Being, the Kether- name of GOD"
       },
       {
         "word": "AK",
+        "hebrew": "כא",
         "desc": "But, yet, certainly"
       },
       {
         "word": "HGYG",
+        "hebrew": "גיגה",
         "desc": "Deep meditation"
       },
       {
         "word": "HVY",
+        "hebrew": "יוה",
         "desc": "Ah! --- Alas!"
       },
       {
         "word": "ZChV",
+        "hebrew": "וחז",
         "desc": "Purity, innocence"
       },
       {
         "word": "YHV",
+        "hebrew": "והי",
         "desc": "Yide Sepher Yetzirah"
       }
     ]
@@ -668,38 +802,47 @@
     "words": [
       {
         "word": "BYDV",
+        "hebrew": "ודיב",
         "desc": "With his hand; Night Demon of 1st Dec. Cancer"
       },
       {
         "word": "BYVD",
+        "hebrew": "דויב",
         "desc": "By Yodh"
       },
       {
         "word": "HAAYH",
+        "hebrew": "היאאה",
         "desc": "Hearer in secret; Angel of 8 W."
       },
       {
         "word": "ZVVG",
+        "hebrew": "גווז",
         "desc": "The state of puberty"
       },
       {
         "word": "ChZVA",
+        "hebrew": "אוזח",
         "desc": "A magical vision (Ch.)"
       },
       {
         "word": "ChTH",
+        "hebrew": "הטח",
         "desc": "Wheat"
       },
       {
         "word": "TVBH",
+        "hebrew": "הבוט",
         "desc": "Good"
       },
       {
         "word": "YAYA",
+        "hebrew": "איאי",
         "desc": "Notariqon of \"Tet. Elohim Tet. Achad.\""
       },
       {
         "word": "YChD",
+        "hebrew": "דחי",
         "desc": "Unity"
       }
     ]
@@ -710,18 +853,22 @@
     "words": [
       {
         "word": "ZChCh",
+        "hebrew": "חחז",
         "desc": "Parted, removed, separated"
       },
       {
         "word": "ChDVH",
+        "hebrew": "הודח",
         "desc": "Joy"
       },
       {
         "word": "ChVT",
+        "hebrew": "טוח",
         "desc": "A thread"
       },
       {
         "word": "ChYH",
+        "hebrew": "היח",
         "desc": "Life"
       }
     ]
@@ -732,34 +879,42 @@
     "words": [
       {
         "word": "AHVBY",
+        "hebrew": "יבוהא",
         "desc": "He whom I love"
       },
       {
         "word": "AVHBY",
+        "hebrew": "יבהוא",
         "desc": "He who loves me"
       },
       {
         "word": "AZBVGH",
+        "hebrew": "הגובזא",
         "desc": "A Mercurial GOD. His essence is HB:AZ , 8"
       },
       {
         "word": "GVYH",
+        "hebrew": "היוג",
         "desc": "Substance; a body"
       },
       {
         "word": "DK",
+        "hebrew": "כד",
         "desc": "A pauper"
       },
       {
         "word": "HBBYH",
+        "hebrew": "היבבה",
         "desc": "Angel of 2 C."
       },
       {
         "word": "ZYZ",
+        "hebrew": "זיז",
         "desc": "Abundance"
       },
       {
         "word": "KD",
+        "hebrew": "דכ",
         "desc": "A water-pot, a large earthenware vessel"
       }
     ]
@@ -770,26 +925,32 @@
     "words": [
       {
         "word": "DKA",
+        "hebrew": "אכד",
         "desc": "To break"
       },
       {
         "word": "ChYVA",
+        "hebrew": "אויח",
         "desc": "The Beast"
       },
       {
         "word": "YHVD",
+        "hebrew": "דוהי",
         "desc": "Jehewid, God of Geburah of Binah<>"
       },
       {
         "word": "YHY",
+        "hebrew": "יהי",
         "desc": "Let there be"
       },
       {
         "word": "YZCh",
+        "hebrew": "חזי",
         "desc": "Will be separated"
       },
       {
         "word": "KH",
+        "hebrew": "הכ",
         "desc": "Thus"
       }
     ]
@@ -800,22 +961,27 @@
     "words": [
       {
         "word": "HVYH",
+        "hebrew": "היוה",
         "desc": "[Vide K.D. L.C.K. p. 273]"
       },
       {
         "word": "ChVZH",
+        "hebrew": "הזוח",
         "desc": "Seeing, looking at"
       },
       {
         "word": "ChZVH",
+        "hebrew": "הוזח",
         "desc": "Sight, vision"
       },
       {
         "word": "YHVH",
+        "hebrew": "הוהי",
         "desc": "TETRAGRAMATON, \"Jehovah,\" the Unutterable Name, the Lost Word"
       },
       {
         "word": "KBD",
+        "hebrew": "דבכ",
         "desc": "Kebad, husband of the impure Lilith. [K.D. L.C.K. 464]"
       }
     ]
@@ -826,18 +992,22 @@
     "words": [
       {
         "word": "d Rt",
+        "hebrew": "tר d",
         "desc": "3r"
       },
       {
         "word": "BKH",
+        "hebrew": "הכב",
         "desc": "Wept, mourned"
       },
       {
         "word": "ZK",
+        "hebrew": "כז",
         "desc": "Purity"
       },
       {
         "word": "ChYDH",
+        "hebrew": "הדיח",
         "desc": "A parable, enigma, riddle"
       }
     ]
@@ -848,14 +1018,17 @@
     "words": [
       {
         "word": "TYT",
+        "hebrew": "טיט",
         "desc": "Clay"
       },
       {
         "word": "YChVD",
+        "hebrew": "דוחי",
         "desc": "Union, unity"
       },
       {
         "word": "KCh",
+        "hebrew": "חכ",
         "desc": "Power"
       }
     ]
@@ -866,10 +1039,12 @@
     "words": [
       {
         "word": "DKH",
+        "hebrew": "הכד",
         "desc": "Is broken. [Ps. x. 10]"
       },
       {
         "word": "HDK",
+        "hebrew": "כדה",
         "desc": "To break down, overturn"
       }
     ]
@@ -880,14 +1055,17 @@
     "words": [
       {
         "word": "ChYYB",
+        "hebrew": "בייח",
         "desc": "A party to an action at law; defendant, plaintiff. [Note HB:L = 30 = Libra = 'Justice']"
       },
       {
         "word": "YHVDH",
+        "hebrew": "הדוהי",
         "desc": "Judah"
       },
       {
         "word": "YHYH",
+        "hebrew": "היהי",
         "desc": "It will be"
       }
     ]
@@ -898,30 +1076,37 @@
     "words": [
       {
         "word": "AYK",
+        "hebrew": "כיא",
         "desc": "How?"
       },
       {
         "word": "AL",
+        "hebrew": "לא",
         "desc": "GOD of Chesed and of Kether of Briah"
       },
       {
         "word": "HVK",
+        "hebrew": "כוה",
         "desc": "To go"
       },
       {
         "word": "HKAH",
+        "hebrew": "האכה",
         "desc": "A beating, striking, collision"
       },
       {
         "word": "VYHY",
+        "hebrew": "יהיו",
         "desc": "And there was. [Vide S.D.I. par. 31]"
       },
       {
         "word": "YYAY",
+        "hebrew": "יאיי",
         "desc": "K. of S. Fig. 31"
       },
       {
         "word": "LA",
+        "hebrew": "אל",
         "desc": "Not"
       }
     ]
@@ -932,42 +1117,52 @@
     "words": [
       {
         "word": ".Rt.",
+        "hebrew": ".tר.",
         "desc": "5th The Number of Abramelin Servitors 25 of Astarot"
       },
       {
         "word": "AHYHVH",
+        "hebrew": "הוהיהא",
         "desc": "Coalescence of AHYH and YHVH Macroprosopus and Microprosopus. This is symbolized by the Hexagram. Suppose the 3 HB:H's conceal the 3 Mothers HB:A, HB:M & HB:Sh and we get 358 q.v."
       },
       {
         "word": "BL",
+        "hebrew": "לב",
         "desc": "Lord"
       },
       {
         "word": "VHVYH",
+        "hebrew": "היוהו",
         "desc": "Angel of 5 W."
       },
       {
         "word": "ZYVVG",
+        "hebrew": "גוויז",
         "desc": "Copula Maritalis"
       },
       {
         "word": "ZKH",
+        "hebrew": "הכז",
         "desc": "Was pure"
       },
       {
         "word": "ChZYZ",
+        "hebrew": "זיזח",
         "desc": "Zig-zag, fork-lightning"
       },
       {
         "word": "YChYD",
+        "hebrew": "דיחי",
         "desc": "Unity K.D. L.C.K. p. 432"
       },
       {
         "word": "KBVD",
+        "hebrew": "דובכ",
         "desc": "Glory"
       },
       {
         "word": "LB",
+        "hebrew": "בל",
         "desc": "Mind, heart"
       }
     ]
@@ -978,18 +1173,22 @@
     "words": [
       {
         "word": "ABL",
+        "hebrew": "לבא",
         "desc": "Sorrow; wept, mourned"
       },
       {
         "word": "BAL",
+        "hebrew": "לאב",
         "desc": "Day Demon of 1st Dec. Aries"
       },
       {
         "word": "BLA",
+        "hebrew": "אלב",
         "desc": "To destroy (Ch.); (?) a King of Edom"
       },
       {
         "word": "GL",
+        "hebrew": "לג",
         "desc": "Spring, fountain"
       }
     ]
@@ -1000,26 +1199,32 @@
     "words": [
       {
         "word": "AL AB",
+        "hebrew": "בא לא",
         "desc": "\"GOD the Father,\" divine name attributed to Jupiter"
       },
       {
         "word": "GAL",
+        "hebrew": "לאג",
         "desc": "To ransom, avenge, pollute"
       },
       {
         "word": "GLA",
+        "hebrew": "אלג",
         "desc": "To reveal"
       },
       {
         "word": "DL",
+        "hebrew": "לד",
         "desc": "A pauper"
       },
       {
         "word": "HDYVT",
+        "hebrew": "טוידה",
         "desc": "A common person; uneducated, ignorant"
       },
       {
         "word": "ChHVYH",
+        "hebrew": "היוהח",
         "desc": "Angel of 1 C."
       }
     ]
@@ -1030,14 +1235,17 @@
     "words": [
       {
         "word": "AGLA",
+        "hebrew": "אלגא",
         "desc": "Agla, a name of God; notariqon of Ateh Gibor le-Olahm Adonai"
       },
       {
         "word": "GBL",
+        "hebrew": "לבג",
         "desc": "Boundary, limit"
       },
       {
         "word": "YHK",
+        "hebrew": "כהי",
         "desc": "He will go"
       }
     ]
@@ -1048,30 +1256,37 @@
     "words": [
       {
         "word": "AHL",
+        "hebrew": "להא",
         "desc": "Tabernaculum"
       },
       {
         "word": "AYKH",
+        "hebrew": "הכיא",
         "desc": "How? (Vide Lamentations)"
       },
       {
         "word": "ALH",
+        "hebrew": "הלא",
         "desc": "Duke of Geburah in Edom; to curse; name of GOD attributed to Mercury"
       },
       {
         "word": "HLA",
+        "hebrew": "אלה",
         "desc": "To remove, cast away"
       },
       {
         "word": "VYDVY",
+        "hebrew": "יודיו",
         "desc": "Confession"
       },
       {
         "word": "LAH",
+        "hebrew": "האל",
         "desc": "Leah"
       },
       {
         "word": "LV",
+        "hebrew": "ול",
         "desc": "Perhaps, possibly; would that!"
       }
     ]
@@ -1082,50 +1297,62 @@
     "words": [
       {
         "word": "AKAYH",
+        "hebrew": "היאכא",
         "desc": "Angel of 8 P."
       },
       {
         "word": "ALHA",
+        "hebrew": "אהלא",
         "desc": "GOD (Ch.)"
       },
       {
         "word": "ALV",
+        "hebrew": "ולא",
         "desc": "Behold!"
       },
       {
         "word": "BLH",
+        "hebrew": "הלב",
         "desc": "Perished, grew old"
       },
       {
         "word": "GDL",
+        "hebrew": "לדג",
         "desc": "To grow great"
       },
       {
         "word": "DGL",
+        "hebrew": "לגד",
         "desc": "Banner"
       },
       {
         "word": "HBL",
+        "hebrew": "לבה",
         "desc": "Tenuity, breath, vanity; in vain; Abel. [I.Z.Q., \"The Supernal Breathers.\"]"
       },
       {
         "word": "VAL",
+        "hebrew": "לאו",
         "desc": "Night Demon of 2nd Dec. Sagittarius"
       },
       {
         "word": "ZL",
+        "hebrew": "לז",
         "desc": "Profession"
       },
       {
         "word": "YChYDH",
+        "hebrew": "הדיחי",
         "desc": "Jechidah, the Atma of Hindu philosophy"
       },
       {
         "word": "LHB",
+        "hebrew": "בהל",
         "desc": "Flame"
       },
       {
         "word": "LZ",
+        "hebrew": "זל",
         "desc": "(?) Devotion of force"
       }
     ]
@@ -1136,34 +1363,42 @@
     "words": [
       {
         "word": "AVAL",
+        "hebrew": "לאוא",
         "desc": "Night Demon of 2nd Dec. Cancer"
       },
       {
         "word": "AZL",
+        "hebrew": "לזא",
         "desc": "He departed"
       },
       {
         "word": "YChZY",
+        "hebrew": "יזחי",
         "desc": "Ghazi, servant of Elisha"
       },
       {
         "word": "GLH",
+        "hebrew": "הלג",
         "desc": "A City in the Mountains of Judah"
       },
       {
         "word": "ZKAY",
+        "hebrew": "יאכז",
         "desc": "Innocent"
       },
       {
         "word": "ChYK",
+        "hebrew": "כיח",
         "desc": "The palate"
       },
       {
         "word": "ChL",
+        "hebrew": "לח",
         "desc": "To make a hole, hollow; to violate"
       },
       {
         "word": "LCh",
+        "hebrew": "חל",
         "desc": "Green"
       }
     ]
@@ -1174,26 +1409,32 @@
     "words": [
       {
         "word": "ZBL",
+        "hebrew": "לבז",
         "desc": "To abide, dwell"
       },
       {
         "word": "TL",
+        "hebrew": "לט",
         "desc": "Dew"
       },
       {
         "word": "YHVH AChD",
+        "hebrew": "דחא הוהי",
         "desc": "The Eternal is One"
       },
       {
         "word": "YChVYH",
+        "hebrew": "היוחי",
         "desc": "Angel of 3 P."
       },
       {
         "word": "KVZV",
+        "hebrew": "וזוכ",
         "desc": "Metathesis of YHVH"
       },
       {
         "word": "LT",
+        "hebrew": "טל",
         "desc": "He cursed"
       }
     ]
@@ -1204,30 +1445,37 @@
     "words": [
       {
         "word": "BLDD",
+        "hebrew": "דדלב",
         "desc": "Bildad"
       },
       {
         "word": "GVAL",
+        "hebrew": "לאוג",
         "desc": "Liberator; title of Jesod"
       },
       {
         "word": "GZL",
+        "hebrew": "לזג",
         "desc": "To cut off"
       },
       {
         "word": "ChBL",
+        "hebrew": "לבח",
         "desc": "A rope; ruin; to bind"
       },
       {
         "word": "ChLB",
+        "hebrew": "בלח",
         "desc": "Milk"
       },
       {
         "word": "YD YHVH",
+        "hebrew": "הוהי די",
         "desc": "The Hand of the Eternal"
       },
       {
         "word": "LY",
+        "hebrew": "יל",
         "desc": "To me, to mine"
       }
     ]
@@ -1238,50 +1486,62 @@
     "words": [
       {
         "word": "AChLB",
+        "hebrew": "בלחא",
         "desc": "Fecundity"
       },
       {
         "word": "AYL",
+        "hebrew": "ליא",
         "desc": "Ram; force; hence = a hero"
       },
       {
         "word": "ALVD",
+        "hebrew": "דולא",
         "desc": "Night Demon of 1st Dec. Virgo"
       },
       {
         "word": "ALY",
+        "hebrew": "ילא",
         "desc": "My GOD"
       },
       {
         "word": "AM",
+        "hebrew": "מא",
         "desc": "Mother"
       },
       {
         "word": "BTL",
+        "hebrew": "לטב",
         "desc": "To fail, cease"
       },
       {
         "word": "GAVAL",
+        "hebrew": "לאואג",
         "desc": "Divine Majesty"
       },
       {
         "word": "GBVL",
+        "hebrew": "לובג",
         "desc": "Terminus"
       },
       {
         "word": "GChL",
+        "hebrew": "לחג",
         "desc": "To burn"
       },
       {
         "word": "HVL",
+        "hebrew": "לוה",
         "desc": "Terror"
       },
       {
         "word": "ChGL",
+        "hebrew": "לגח",
         "desc": "To go round in a circle"
       },
       {
         "word": "YH YHVH",
+        "hebrew": "הוהי הי",
         "desc": "[Vide Ps. cxviii. & I.R.Q. 778]"
       }
     ]
@@ -1292,34 +1552,42 @@
     "words": [
       {
         "word": "AYAL",
+        "hebrew": "לאיא",
         "desc": "Angel of"
       },
       {
         "word": "ALVH",
+        "hebrew": "הולא",
         "desc": "Eloah, a name of GOD"
       },
       {
         "word": "AMA",
+        "hebrew": "אמא",
         "desc": "The Supernal Mother, unfertilized; see 52"
       },
       {
         "word": "BLHH",
+        "hebrew": "ההלב",
         "desc": "Terror, calamity"
       },
       {
         "word": "BLY",
+        "hebrew": "ילב",
         "desc": "Loss, destruction"
       },
       {
         "word": "ChDL",
+        "hebrew": "לדח",
         "desc": "To cease"
       },
       {
         "word": "ChLD",
+        "hebrew": "דלח",
         "desc": "The World, Earth of Malkuth"
       },
       {
         "word": "KBVDY",
+        "hebrew": "ידובכ",
         "desc": "My glory"
       }
     ]
@@ -1330,22 +1598,27 @@
     "words": [
       {
         "word": "GDVL",
+        "hebrew": "לודג",
         "desc": "Great"
       },
       {
         "word": "GYL",
+        "hebrew": "ליג",
         "desc": "To rejoice"
       },
       {
         "word": "ChLH",
+        "hebrew": "הלח",
         "desc": "Challah; to make faint. [Vide K.D. L.C.K. p. 346]"
       },
       {
         "word": "LBYA",
+        "hebrew": "איבל",
         "desc": "[Vide K.D. L.C.K, p. 151; see no. 340]"
       },
       {
         "word": "LVZ",
+        "hebrew": "זול",
         "desc": "Hazel, almond"
       }
     ]
@@ -1356,42 +1629,52 @@
     "words": [
       {
         "word": "AGLY",
+        "hebrew": "ילגא",
         "desc": "Drops"
       },
       {
         "word": "AGM",
+        "hebrew": "מגא",
         "desc": "A pool, pond; sorrow"
       },
       {
         "word": "GVLH",
+        "hebrew": "הלוג",
         "desc": "Captive, captivity"
       },
       {
         "word": "GYAL",
+        "hebrew": "לאיג",
         "desc": "Angel ruling Gemini"
       },
       {
         "word": "DLY",
+        "hebrew": "ילד",
         "desc": "Aquarius"
       },
       {
         "word": "DM",
+        "hebrew": "מד",
         "desc": "Blood"
       },
       {
         "word": "ChVL",
+        "hebrew": "לוח",
         "desc": "Sand: also horror. See Scorpion Pantacle in K. of S. and 10th Aethyr"
       },
       {
         "word": "TLH",
+        "hebrew": "הלט",
         "desc": "A ram; Aries"
       },
       {
         "word": "YVD HA VV HA",
+        "hebrew": "אה וו אה דוי",
         "desc": "Tet. in ? World. [Vide K.D. L.C.K. p. 251]"
       },
       {
         "word": "LHT",
+        "hebrew": "טהל",
         "desc": "Flame"
       }
     ]
@@ -1402,50 +1685,62 @@
     "words": [
       {
         "word": "AGYAL",
+        "hebrew": "לאיגא",
         "desc": "Intelligence of Saturn"
       },
       {
         "word": "ADM",
+        "hebrew": "מדא",
         "desc": "Adam"
       },
       {
         "word": "AMD",
+        "hebrew": "דמא",
         "desc": "The Fool"
       },
       {
         "word": "GAVLH",
+        "hebrew": "הלואג",
         "desc": "Redemption, liberation"
       },
       {
         "word": "HM",
+        "hebrew": "מה",
         "desc": "To grow warm"
       },
       {
         "word": "ZBVL",
+        "hebrew": "לובז",
         "desc": "Heaven of Tiphareth"
       },
       {
         "word": "ZChL",
+        "hebrew": "לחז",
         "desc": "Hesitated. [Vide no. 405]"
       },
       {
         "word": "ZZAL",
+        "hebrew": "לאזז",
         "desc": "Spirit of Saturn"
       },
       {
         "word": "ChBLH",
+        "hebrew": "הלבח",
         "desc": "She who ruins"
       },
       {
         "word": "YVD HA VAV HA",
+        "hebrew": "אה ואו אה דוי",
         "desc": "Tet. in Yetzirah"
       },
       {
         "word": "MAD",
+        "hebrew": "דאמ",
         "desc": "Greatly, strongly"
       },
       {
         "word": "MH",
+        "hebrew": "המ",
         "desc": "Yetzirah's 'Secret Nature' [Vide I.R.Q. xxxiv.]"
       }
     ]
@@ -1456,34 +1751,42 @@
     "words": [
       {
         "word": "ALHY",
+        "hebrew": "יהלא",
         "desc": "A name of GOD"
       },
       {
         "word": "AMH",
+        "hebrew": "המא",
         "desc": "A female slave; cubitus"
       },
       {
         "word": "BDYL",
+        "hebrew": "לידב",
         "desc": "Tin, the metal of Jupiter"
       },
       {
         "word": "HBDLH",
+        "hebrew": "הלדבה",
         "desc": "A dividing, sundering, separation"
       },
       {
         "word": "HHHAL",
+        "hebrew": "לאההה",
         "desc": "Angel of 7 S."
       },
       {
         "word": "ChVBL",
+        "hebrew": "לבוח",
         "desc": "A ruiner"
       },
       {
         "word": "TVAL",
+        "hebrew": "לאוט",
         "desc": "Angel ruling Taurus"
       },
       {
         "word": "LVY",
+        "hebrew": "יול",
         "desc": "Levi, Levite"
       }
     ]
@@ -1494,22 +1797,27 @@
     "words": [
       {
         "word": "AVYL",
+        "hebrew": "ליוא",
         "desc": "Foolish, silly. (Stultus)"
       },
       {
         "word": "BKYYH",
+        "hebrew": "הייכב",
         "desc": "A weeping"
       },
       {
         "word": "BMH",
+        "hebrew": "המב",
         "desc": "Cloud; high place; waves; fortress"
       },
       {
         "word": "YVAL",
+        "hebrew": "לאוי",
         "desc": "Angel ruling Virgo"
       },
       {
         "word": "ChLT",
+        "hebrew": "טלח",
         "desc": "To clutch, hold"
       }
     ]
@@ -1520,30 +1828,37 @@
     "words": [
       {
         "word": "GDVLH",
+        "hebrew": "הלודג",
         "desc": "Mercy"
       },
       {
         "word": "VHVAL",
+        "hebrew": "לאוהו",
         "desc": "Angel of 2 W."
       },
       {
         "word": "ChYL",
+        "hebrew": "ליח",
         "desc": "A woman [vide K.D. L.C.K. p. 320]; strength; an army"
       },
       {
         "word": "ChM",
+        "hebrew": "מח",
         "desc": "To grow warm; heat, fire; black; Ham, the son of Noah"
       },
       {
         "word": "YVBL",
+        "hebrew": "לבוי",
         "desc": "Jubilee"
       },
       {
         "word": "KVKB",
+        "hebrew": "בכוכ",
         "desc": "A star, planet; Sphere of Mercury"
       },
       {
         "word": "MAZ",
+        "hebrew": "זאמ",
         "desc": "[Vide Ps. xciii, & Prov. viii. 22]"
       }
     ]
@@ -1554,46 +1869,57 @@
     "words": [
       {
         "word": "LA ChY",
+        "hebrew": "יח אל",
         "desc": "The Living GOD"
       },
       {
         "word": "GVLChB",
+        "hebrew": "בחלוג",
         "desc": "Qliphoth of Geburah"
       },
       {
         "word": "DMH",
+        "hebrew": "המד",
         "desc": "Resembled; meditated; silent"
       },
       {
         "word": "HGYAL",
+        "hebrew": "לאיגה",
         "desc": "Intelligence of Venus"
       },
       {
         "word": "ChVLH",
+        "hebrew": "הלוח",
         "desc": "Drooping, being sick"
       },
       {
         "word": "ChYLA",
+        "hebrew": "אליח",
         "desc": "Strength"
       },
       {
         "word": "ChMA",
+        "hebrew": "אמח",
         "desc": "Heat, fury (Ch.)"
       },
       {
         "word": "LYDH",
+        "hebrew": "הדיל",
         "desc": "A bringing forth, birth, nativity"
       },
       {
         "word": "MDH",
+        "hebrew": "הדמ",
         "desc": "A measuring, measure"
       },
       {
         "word": "MVG",
+        "hebrew": "גומ",
         "desc": "Solve. Vide no. 103]"
       },
       {
         "word": "MT",
+        "hebrew": "טמ",
         "desc": "The Rod of Aaron"
       }
     ]
@@ -1604,54 +1930,67 @@
     "words": [
       {
         "word": "ADMH",
+        "hebrew": "המדא",
         "desc": "Red earth, the soil; Earth of Chesed"
       },
       {
         "word": "ATM",
+        "hebrew": "מטא",
         "desc": "Closed, shut up"
       },
       {
         "word": "ALDYH",
+        "hebrew": "הידלא",
         "desc": "Angel of 9 P."
       },
       {
         "word": "DG GDVL",
+        "hebrew": "לודג גד",
         "desc": "Jonah's Whale"
       },
       {
         "word": "HMH",
+        "hebrew": "המה",
         "desc": "To ferment"
       },
       {
         "word": "ChBLY",
+        "hebrew": "ילבח",
         "desc": "Pains, sorrows"
       },
       {
         "word": "TMA",
+        "hebrew": "אמט",
         "desc": "Unclean, impure"
       },
       {
         "word": "YYL",
+        "hebrew": "ליי",
         "desc": "58th HB:Sh"
       },
       {
         "word": "YLY",
+        "hebrew": "ילי",
         "desc": "2nd HB:Sh"
       },
       {
         "word": "YM",
+        "hebrew": "מי",
         "desc": "The sea"
       },
       {
         "word": "KL",
+        "hebrew": "לכ",
         "desc": "All, every"
       },
       {
         "word": "LK",
+        "hebrew": "כל",
         "desc": "To thee"
       },
       {
         "word": "MY",
+        "hebrew": "ימ",
         "desc": "What? --- Which?"
       }
     ]
@@ -1662,30 +2001,37 @@
     "words": [
       {
         "word": "ADVM",
+        "hebrew": "מודא",
         "desc": "Edom"
       },
       {
         "word": "AYM",
+        "hebrew": "מיא",
         "desc": "Terrible; Day Demon of 2nd Dec. Scorpio"
       },
       {
         "word": "AKL",
+        "hebrew": "לכא",
         "desc": "Ate; devoured"
       },
       {
         "word": "AN",
+        "hebrew": "נא",
         "desc": "Pain"
       },
       {
         "word": "HVM",
+        "hebrew": "מוה",
         "desc": "Tumultuously (vide no. 451); to harass, perturb"
       },
       {
         "word": "YHHAL",
+        "hebrew": "לאההי",
         "desc": "Angel of 8 S. [Vide K. of S., fig. 52]"
       },
       {
         "word": "NA",
+        "hebrew": "אנ",
         "desc": "Failure"
       }
     ]
@@ -1696,62 +2042,77 @@
     "words": [
       {
         "word": "ABA VAMA",
+        "hebrew": "אמאו אבא",
         "desc": "Father and Mother"
       },
       {
         "word": "AYMA",
+        "hebrew": "אמיא",
         "desc": "Supernal Mother"
       },
       {
         "word": "ALYHV",
+        "hebrew": "והילא",
         "desc": "Elihu - Eli Hua, \"He is my GOD,\" who is the Holy Guardian Angel of Job in the Alegory"
       },
       {
         "word": "ANA",
+        "hebrew": "אנא",
         "desc": "[Vide K.D. L.C.K. p. 134]"
       },
       {
         "word": "BHMH",
+        "hebrew": "המהב",
         "desc": "A mare; brute animal, beast"
       },
       {
         "word": "BYM",
+        "hebrew": "מיב",
         "desc": "Day Demon of 2nd Dec. Sagittarius"
       },
       {
         "word": "BKL",
+        "hebrew": "לכב",
         "desc": "From all, among all"
       },
       {
         "word": "BN",
+        "hebrew": "נב",
         "desc": "The Son: Assiah's \"Secret Nature\""
       },
       {
         "word": "ZMH",
+        "hebrew": "המז",
         "desc": "Meditation, imagination, sin"
       },
       {
         "word": "ChMD",
+        "hebrew": "דמח",
         "desc": "A desirable one; to desire"
       },
       {
         "word": "YBM",
+        "hebrew": "מבי",
         "desc": "A husband's brother"
       },
       {
         "word": "YHVAL",
+        "hebrew": "לאוהי",
         "desc": "Angel of Kether of Binah, <> and of Jesod of Binah <>"
       },
       {
         "word": "YVD HH VV HH",
+        "hebrew": "הה וו הה דוי",
         "desc": "Tet. in Assiah"
       },
       {
         "word": "KLB",
+        "hebrew": "בלכ",
         "desc": "A dog"
       },
       {
         "word": "LAVYH",
+        "hebrew": "היואל",
         "desc": "Angel of 4 C., and of 10 P."
       }
     ]
@@ -1762,30 +2123,37 @@
     "words": [
       {
         "word": "ABN",
+        "hebrew": "נבא",
         "desc": "The stone that slew Goliath; a stone, rock"
       },
       {
         "word": "ALYHVA",
+        "hebrew": "אוהילא",
         "desc": "Elihu. (Vide 52)"
       },
       {
         "word": "GN",
+        "hebrew": "נג",
         "desc": "The garden"
       },
       {
         "word": "HZYAL",
+        "hebrew": "לאיזה",
         "desc": "Angel of 9 P."
       },
       {
         "word": "ChMH",
+        "hebrew": "המח",
         "desc": "To defend, hide; a wall; the sun; fury"
       },
       {
         "word": "TChVL",
+        "hebrew": "לוחט",
         "desc": "The spleen"
       },
       {
         "word": "MAHBH",
+        "hebrew": "הבהאמ",
         "desc": "A lover"
       }
     ]
@@ -1796,30 +2164,37 @@
     "words": [
       {
         "word": "AGN",
+        "hebrew": "נגא",
         "desc": "A basin, bowl, vessel. [Ex. xxiv. 6]"
       },
       {
         "word": "DMY",
+        "hebrew": "ימד",
         "desc": "Rest"
       },
       {
         "word": "DN",
+        "hebrew": "נד",
         "desc": "A Tribe of Israel; to judge, rule. [Vide K.D. L.C.K. p.37]"
       },
       {
         "word": "ChVM",
+        "hebrew": "מוח",
         "desc": "Pertaining to summer"
       },
       {
         "word": "LHTY",
+        "hebrew": "יטהל",
         "desc": "My flame; enchantments"
       },
       {
         "word": "MTH",
+        "hebrew": "הטמ",
         "desc": "A bed; stick, rod"
       },
       {
         "word": "ND",
+        "hebrew": "דנ",
         "desc": "To remove"
       }
     ]
@@ -1830,42 +2205,52 @@
     "words": [
       {
         "word": "GNB",
+        "hebrew": "בנג",
         "desc": "Thief; stole"
       },
       {
         "word": "GZYLH",
+        "hebrew": "הליזג",
         "desc": "Robbery, pillage"
       },
       {
         "word": "DVMH",
+        "hebrew": "המוד",
         "desc": "Silence. [For name of Angels, see Sohar Sch. V. Cap. 18]"
       },
       {
         "word": "HDVM",
+        "hebrew": "מודה",
         "desc": "A footstool"
       },
       {
         "word": "HYM",
+        "hebrew": "מיה",
         "desc": "To swell, heave. [Vide no. 51]"
       },
       {
         "word": "HLK",
+        "hebrew": "כלה",
         "desc": "To walk"
       },
       {
         "word": "ChVLYA",
+        "hebrew": "אילוח",
         "desc": "Knuckle; member, limb"
       },
       {
         "word": "KLH",
+        "hebrew": "הלכ",
         "desc": "The bride"
       },
       {
         "word": "NGB",
+        "hebrew": "בגנ",
         "desc": "Noon; midday"
       },
       {
         "word": "NH",
+        "hebrew": "הנ",
         "desc": "Ornament"
       }
     ]
@@ -1876,22 +2261,27 @@
     "words": [
       {
         "word": "AYMH",
+        "hebrew": "המיא",
         "desc": "Dread, terror"
       },
       {
         "word": "ANH",
+        "hebrew": "הנא",
         "desc": "He suffered"
       },
       {
         "word": "HYYAL",
+        "hebrew": "לאייה",
         "desc": "Angel of 4 C."
       },
       {
         "word": "YVM",
+        "hebrew": "מוי",
         "desc": "Day"
       },
       {
         "word": "NAH",
+        "hebrew": "האנ",
         "desc": "Beautiful"
       }
     ]
@@ -1902,50 +2292,62 @@
     "words": [
       {
         "word": "ABDN",
+        "hebrew": "נדבא",
         "desc": "Rim"
       },
       {
         "word": "AVKL",
+        "hebrew": "לכוא",
         "desc": "Consuming"
       },
       {
         "word": "AVN",
+        "hebrew": "נוא",
         "desc": "Wealth, an age, Time; Night Demon of 1st Dec. Scorpio"
       },
       {
         "word": "AYVM",
+        "hebrew": "מויא",
         "desc": "Formidable, terrible"
       },
       {
         "word": "ANV",
+        "hebrew": "ונא",
         "desc": "We"
       },
       {
         "word": "BYTVL",
+        "hebrew": "לוטיב",
         "desc": "A breaking down, subversion, destruction"
       },
       {
         "word": "BNH",
+        "hebrew": "הנב",
         "desc": "Built"
       },
       {
         "word": "DGYM",
+        "hebrew": "מיגד",
         "desc": "Pisces. [Fish (pl.); vide 7]"
       },
       {
         "word": "VVLYH",
+        "hebrew": "הילוו",
         "desc": "Angel of 8 C."
       },
       {
         "word": "LVVYH",
+        "hebrew": "היוול",
         "desc": "Angel of 5 C."
       },
       {
         "word": "MZBCh",
+        "hebrew": "חבזמ",
         "desc": "Altar"
       },
       {
         "word": "MChBVA",
+        "hebrew": "אובחמ",
         "desc": "The laying-by, making secret"
       }
     ]
@@ -1956,38 +2358,47 @@
     "words": [
       {
         "word": "AHBYM",
+        "hebrew": "מיבהא",
         "desc": "[Vide no. 499]"
       },
       {
         "word": "AZN",
+        "hebrew": "נזא",
         "desc": "[Vide K.D. L.C.K. p. 69] An ear"
       },
       {
         "word": "DAGN",
+        "hebrew": "נגאד",
         "desc": "Night Demon of 1st Dec. Sagittarius"
       },
       {
         "word": "ChYLY",
+        "hebrew": "יליח",
         "desc": "My strength, power, might"
       },
       {
         "word": "ChN",
+        "hebrew": "נח",
         "desc": "Love, kindness, grace; notariqon of Chokmah Nesthrah, the Secret Wisdom"
       },
       {
         "word": "TLYHD",
+        "hebrew": "דהילט",
         "desc": "Ruler of Water"
       },
       {
         "word": "YYZAL",
+        "hebrew": "לאזיי",
         "desc": "Angel of 6 S."
       },
       {
         "word": "LHChYH",
+        "hebrew": "היחהל",
         "desc": "Angel of 3 P."
       },
       {
         "word": "NCh",
+        "hebrew": "חנ",
         "desc": "[Vide K.D. L.C.K. p. 69]"
       }
     ]
@@ -1998,18 +2409,22 @@
     "words": [
       {
         "word": "AChYM",
+        "hebrew": "מיחא",
         "desc": "Brethren. [Referred to Lilith & Samael --- K.D. L.C.K. p. 54]"
       },
       {
         "word": "GVYM",
+        "hebrew": "מיוג",
         "desc": "Heathen"
       },
       {
         "word": "ChVMH",
+        "hebrew": "המוח",
         "desc": "A wall"
       },
       {
         "word": "NDH",
+        "hebrew": "הדנ",
         "desc": "Menstruata"
       }
     ]
@@ -2020,34 +2435,42 @@
     "words": [
       {
         "word": "BChN",
+        "hebrew": "נחב",
         "desc": "Tried by fire; a watch-tower"
       },
       {
         "word": "GAVN",
+        "hebrew": "נואג",
         "desc": "Excellence, sublimity, glory, pride"
       },
       {
         "word": "HLKH",
+        "hebrew": "הכלה",
         "desc": "Constitution, tradition"
       },
       {
         "word": "HNH",
+        "hebrew": "הנה",
         "desc": "To behold"
       },
       {
         "word": "TNA",
+        "hebrew": "אנט",
         "desc": "A basket"
       },
       {
         "word": "YLHYH",
+        "hebrew": "היהלי",
         "desc": "Angel of 8 C."
       },
       {
         "word": "MChZH",
+        "hebrew": "הזחמ",
         "desc": "Vision"
       },
       {
         "word": "NGBH",
+        "hebrew": "הבגנ",
         "desc": "The Southern district"
       }
     ]
@@ -2058,38 +2481,47 @@
     "words": [
       {
         "word": "ADVN",
+        "hebrew": "נודא",
         "desc": "Master, Lord, Adon"
       },
       {
         "word": "AYN",
+        "hebrew": "ניא",
         "desc": "The Negative, non-existent; not"
       },
       {
         "word": "ALYK",
+        "hebrew": "כילא",
         "desc": "Towards, to thee"
       },
       {
         "word": "ANY",
+        "hebrew": "ינא",
         "desc": "I, myself"
       },
       {
         "word": "BTN",
+        "hebrew": "נטב",
         "desc": "The belly"
       },
       {
         "word": "DMBYH",
+        "hebrew": "היבמד",
         "desc": "Angel of 10 S."
       },
       {
         "word": "HVN",
+        "hebrew": "נוה",
         "desc": "Wealth"
       },
       {
         "word": "YYYAL",
+        "hebrew": "לאייי",
         "desc": "Angel of 6 C."
       },
       {
         "word": "NVH",
+        "hebrew": "הונ",
         "desc": "Habitaculum"
       }
     ]
@@ -2100,18 +2532,22 @@
     "words": [
       {
         "word": "ASA",
+        "hebrew": "אסא",
         "desc": "Healing"
       },
       {
         "word": "BHHMY",
+        "hebrew": "ימההב",
         "desc": "Angel of 2nd Dec. Aries"
       },
       {
         "word": "BNY",
+        "hebrew": "ינב",
         "desc": "The sons"
       },
       {
         "word": "ZNH",
+        "hebrew": "הנז",
         "desc": "To commit; healing"
       }
     ]
@@ -2122,30 +2558,37 @@
     "words": [
       {
         "word": "ABDVN",
+        "hebrew": "נודבא",
         "desc": "Abaddon, The Hell of Chesed"
       },
       {
         "word": "GLL",
+        "hebrew": "ללג",
         "desc": "Dregs, roll; faeces (globular); dung"
       },
       {
         "word": "ZVN",
+        "hebrew": "נוז",
         "desc": "Fed"
       },
       {
         "word": "ChVTM",
+        "hebrew": "מטוח",
         "desc": "The nose"
       },
       {
         "word": "ChYMH",
+        "hebrew": "המיח",
         "desc": "Fervour"
       },
       {
         "word": "YVD HY VAV HY",
+        "hebrew": "יה ואו יה דוי",
         "desc": "Tet. in Briah"
       },
       {
         "word": "SG",
+        "hebrew": "גס",
         "desc": "Briah's \"Secret Nature\""
       }
     ]
@@ -2156,38 +2599,47 @@
     "words": [
       {
         "word": "th Rt.",
+        "hebrew": ".tר ht",
         "desc": "= 6 4 to the 3rd power = 2 to the 6th power. Mercury"
       },
       {
         "word": "ANChH",
+        "hebrew": "החנא",
         "desc": "A sigh, groan, deep breath"
       },
       {
         "word": "DYN",
+        "hebrew": "ניד",
         "desc": "Justice"
       },
       {
         "word": "DNY",
+        "hebrew": "ינד",
         "desc": "(Din and Doni are twin Mercurial Intelligences in Gemini)"
       },
       {
         "word": "MY ZHB",
+        "hebrew": "בהז ימ",
         "desc": "The golden waters"
       },
       {
         "word": "MYZHB",
+        "hebrew": "בהזימ",
         "desc": "[I.R.Q. xl. 996]"
       },
       {
         "word": "NBVAH",
+        "hebrew": "האובנ",
         "desc": "Prophecy"
       },
       {
         "word": "NVGH",
+        "hebrew": "הגונ",
         "desc": "Sphere of Venus"
       },
       {
         "word": "NVCh",
+        "hebrew": "חונ",
         "desc": "Noach"
       }
     ]
@@ -2198,42 +2650,52 @@
     "words": [
       {
         "word": "ADNY",
+        "hebrew": "ינדא",
         "desc": "Adonai"
       },
       {
         "word": "AVChYM",
+        "hebrew": "מיחוא",
         "desc": "Weasels and other terrible animals"
       },
       {
         "word": "HYKL",
+        "hebrew": "לכיה",
         "desc": "The Palace"
       },
       {
         "word": "HLL",
+        "hebrew": "ללה",
         "desc": "Shone, gloried, praised"
       },
       {
         "word": "HS",
+        "hebrew": "סה",
         "desc": "To keep silence"
       },
       {
         "word": "ChZN",
+        "hebrew": "נזח",
         "desc": "Defective. [Vide K.D. L.C.K. p. 339]"
       },
       {
         "word": "LLH",
+        "hebrew": "הלל",
         "desc": "6th HB:Sh"
       },
       {
         "word": "MZVZH",
+        "hebrew": "הזוזמ",
         "desc": "A door post"
       },
       {
         "word": "MKH",
+        "hebrew": "הכמ",
         "desc": "A beating, striking"
       },
       {
         "word": "NHY",
+        "hebrew": "יהנ",
         "desc": "[Vide K.D. L.C.K. p. 563]"
       }
     ]
@@ -2244,26 +2706,32 @@
     "words": [
       {
         "word": "AKYLH",
+        "hebrew": "הליכא",
         "desc": "Food, vituals"
       },
       {
         "word": "ALHYK",
+        "hebrew": "כיהלא",
         "desc": "The Lord thy GOD (is a consuming Fire). [Deut.iv.24]"
       },
       {
         "word": "ANYH",
+        "hebrew": "הינא",
         "desc": "A ship"
       },
       {
         "word": "BChVN",
+        "hebrew": "נוחב",
         "desc": "A trial, an experiment"
       },
       {
         "word": "GLGL",
+        "hebrew": "לגלג",
         "desc": "A wheel. [Called \"Cognomen Schechinae\"]"
       },
       {
         "word": "DNHBH",
+        "hebrew": "הבהנד",
         "desc": "A City of Edom"
       }
     ]
@@ -2274,30 +2742,37 @@
     "words": [
       {
         "word": "AVNY",
+        "hebrew": "ינוא",
         "desc": "[Vide K.D. L.C.K. p. 57]"
       },
       {
         "word": "BYNH",
+        "hebrew": "הניב",
         "desc": "The Understanding"
       },
       {
         "word": "VYNA",
+        "hebrew": "אניו",
         "desc": "Night Demon of 3rd Dec. Gemini"
       },
       {
         "word": "ZYN",
+        "hebrew": "ניז",
         "desc": "Zayin"
       },
       {
         "word": "ZLL",
+        "hebrew": "ללז",
         "desc": "Debased"
       },
       {
         "word": "ChNT",
+        "hebrew": "טנח",
         "desc": "To embalm"
       },
       {
         "word": "YBMYH",
+        "hebrew": "הימבי",
         "desc": "Angel of 3 C."
       }
     ]
@@ -2308,22 +2783,27 @@
     "words": [
       {
         "word": "VYBN",
+        "hebrew": "נביו",
         "desc": "Wise. --- Intelliget ista?"
       },
       {
         "word": "ChKM",
+        "hebrew": "מכח",
         "desc": "To be wise"
       },
       {
         "word": "ChLL",
+        "hebrew": "ללח",
         "desc": "Emptiness"
       },
       {
         "word": "ChS",
+        "hebrew": "סח",
         "desc": "To pity"
       },
       {
         "word": "LVLB",
+        "hebrew": "בלול",
         "desc": "Ramus Tabernacularis"
       }
     ]
@@ -2334,14 +2814,17 @@
     "words": [
       {
         "word": "ABVS",
+        "hebrew": "סובא",
         "desc": "A manger, stable; an enclosure"
       },
       {
         "word": "HDS",
+        "hebrew": "סדה",
         "desc": "Myrtle"
       },
       {
         "word": "VKBYLA",
+        "hebrew": "אליבכו",
         "desc": "L.A. Angel of Pisces"
       }
     ]
@@ -2352,22 +2835,27 @@
     "words": [
       {
         "word": "ADNYH",
+        "hebrew": "הינדא",
         "desc": "(A proper name)"
       },
       {
         "word": "HSH",
+        "hebrew": "הסה",
         "desc": "Hush, be silent"
       },
       {
         "word": "YYN",
+        "hebrew": "ניי",
         "desc": "Wine"
       },
       {
         "word": "LYL",
+        "hebrew": "ליל",
         "desc": "Night"
       },
       {
         "word": "SVD",
+        "hebrew": "דוס",
         "desc": "[Vide Ps. xxv. 14.] The Secret"
       }
     ]
@@ -2378,38 +2866,47 @@
     "words": [
       {
         "word": "AYMK",
+        "hebrew": "כמיא",
         "desc": "Thy terror"
       },
       {
         "word": "ALYL",
+        "hebrew": "לילא",
         "desc": "Nothing; an apparition, image"
       },
       {
         "word": "ALM",
+        "hebrew": "מלא",
         "desc": "Silence; silent"
       },
       {
         "word": "AMDVK",
+        "hebrew": "כודמא",
         "desc": "Night Demon of 1st Dec. Aquarius"
       },
       {
         "word": "ANK",
+        "hebrew": "כנא",
         "desc": "Lead, the metal of Saturn; a plummet-line, level, water- level."
       },
       {
         "word": "ChZVN",
+        "hebrew": "נוזח",
         "desc": "Vision"
       },
       {
         "word": "YVNH",
+        "hebrew": "הנוי",
         "desc": "A dove, pigeon"
       },
       {
         "word": "YNVH",
+        "hebrew": "הוני",
         "desc": "A dove"
       },
       {
         "word": "MLA",
+        "hebrew": "אלמ",
         "desc": "Plentitude, fullness"
       }
     ]
@@ -2420,38 +2917,47 @@
     "words": [
       {
         "word": "ADVNAY",
+        "hebrew": "יאנודא",
         "desc": "Adonai, transliterated as by Lemegeton, etc."
       },
       {
         "word": "ADVKYAL",
+        "hebrew": "לאיכודא",
         "desc": "Geomantic Intelligence of Sagittarius"
       },
       {
         "word": "BKN",
+        "hebrew": "נכב",
         "desc": "In, so, thus, then"
       },
       {
         "word": "BSVD",
+        "hebrew": "דוסב",
         "desc": "In the secret"
       },
       {
         "word": "VYKLV",
+        "hebrew": "ולכיו",
         "desc": "And they are excellent, finished"
       },
       {
         "word": "ChSD",
+        "hebrew": "דסח",
         "desc": "Kindness, mercy"
       },
       {
         "word": "YVD HY VYV HY",
+        "hebrew": "יה ויו יה דוי",
         "desc": "Tet. in Atziluth"
       },
       {
         "word": "MKBY",
+        "hebrew": "יבכמ",
         "desc": "Maccabee"
       },
       {
         "word": "a'aB",
+        "hebrew": "בע",
         "desc": "Atziluth's \"Secret Nature\" --- thickness, cloud; Aub"
       }
     ]
@@ -2462,22 +2968,27 @@
     "words": [
       {
         "word": "BLYAL",
+        "hebrew": "לאילב",
         "desc": "Demon-King of Hod, and Night Demon of 2nd Dec. Aquarius"
       },
       {
         "word": "GML",
+        "hebrew": "למג",
         "desc": "Gimel"
       },
       {
         "word": "ChKMH",
+        "hebrew": "המכח",
         "desc": "The Wise One"
       },
       {
         "word": "ChSH",
+        "hebrew": "הסח",
         "desc": "To trust in, shelter in"
       },
       {
         "word": "YVM TVB",
+        "hebrew": "בוט מוי",
         "desc": "A day of feast"
       }
     ]
@@ -2488,22 +2999,27 @@
     "words": [
       {
         "word": "DYYN",
+        "hebrew": "נייד",
         "desc": "A leader, chief, judge"
       },
       {
         "word": "DKYM",
+        "hebrew": "מיכד",
         "desc": "Worn-out (?shameless) Beggars"
       },
       {
         "word": "LMD",
+        "hebrew": "דמל",
         "desc": "Ox-goad"
       },
       {
         "word": "SBYB",
+        "hebrew": "ביבס",
         "desc": "A circuit; roundabout"
       },
       {
         "word": "a'aD",
+        "hebrew": "דע",
         "desc": "All the way, constantly"
       }
     ]
@@ -2514,30 +3030,37 @@
     "words": [
       {
         "word": "GVVNY",
+        "hebrew": "ינווג",
         "desc": "Hues, colours, complexions"
       },
       {
         "word": "HYLL",
+        "hebrew": "לליה",
         "desc": "Lucifer, the Herald Star"
       },
       {
         "word": "YKDYAL",
+        "hebrew": "לאידכי",
         "desc": "Vide K. of S., fig. 53]"
       },
       {
         "word": "YLLH",
+        "hebrew": "הללי",
         "desc": "A lamenting, wailing"
       },
       {
         "word": "KYMH",
+        "hebrew": "המיכ",
         "desc": "The Pleiades"
       },
       {
         "word": "LYLH",
+        "hebrew": "הליל",
         "desc": "Night; by night"
       },
       {
         "word": "NVYT",
+        "hebrew": "טיונ",
         "desc": "NUIT, THE STAR GODDESS"
       }
     ]
@@ -2548,14 +3071,17 @@
     "words": [
       {
         "word": "ChBYVN",
+        "hebrew": "נויבח",
         "desc": "Secret, put away; a hiding- place"
       },
       {
         "word": "NYChCh",
+        "hebrew": "חחינ",
         "desc": "Rest, peace"
       },
       {
         "word": "a'aBD",
+        "hebrew": "דבע",
         "desc": "Slave, servant"
       }
     ]
@@ -2566,26 +3092,32 @@
     "words": [
       {
         "word": "Ba'aH",
+        "hebrew": "העב",
         "desc": "Prayed"
       },
       {
         "word": "GYChVN",
+        "hebrew": "נוחיג",
         "desc": "The river Gihon. [Gen. ii. 13]"
       },
       {
         "word": "ZYDVN",
+        "hebrew": "נודיז",
         "desc": "Overflowing. [Ps. cxxiv. 5]"
       },
       {
         "word": "MGDL",
+        "hebrew": "לדגמ",
         "desc": "Towers, citadels"
       },
       {
         "word": "MZL",
+        "hebrew": "לזמ",
         "desc": "The Influence from Kether"
       },
       {
         "word": "a'aZ",
+        "hebrew": "זע",
         "desc": "Strength; a he-goat"
       }
     ]
@@ -2596,62 +3128,77 @@
     "words": [
       {
         "word": "78",
+        "hebrew": "87",
         "desc": "There are cards in the Tarot. SUM (1 - 12). The Mystic Number of Kether as Hua. The sum of the Key-Numbers of the Supernal Beard."
       },
       {
         "word": "AVMAL",
+        "hebrew": "לאמוא",
         "desc": "Angel of 10 W."
       },
       {
         "word": "AYVAS",
+        "hebrew": "סאויא",
         "desc": "Angel of Ra Hoor Khuit"
       },
       {
         "word": "HYKL AHBH",
+        "hebrew": "הבהא לכיה",
         "desc": "Briatic Palace of Chesed"
       },
       {
         "word": "ZMAL",
+        "hebrew": "לאמז",
         "desc": "Angel of Mars"
       },
       {
         "word": "ChLM",
+        "hebrew": "מלח",
         "desc": "The breaker, dream"
       },
       {
         "word": "ChML",
+        "hebrew": "למח",
         "desc": "To pity"
       },
       {
         "word": "ChNK",
+        "hebrew": "כנח",
         "desc": "To initiate"
       },
       {
         "word": "YZLAL",
+        "hebrew": "לאלזי",
         "desc": "Angel of 2 S."
       },
       {
         "word": "KDMDY",
+        "hebrew": "ידמדכ",
         "desc": "Angel of 1st Dec. Taurus"
       },
       {
         "word": "LChM",
+        "hebrew": "מחל",
         "desc": "Bread (Ps. lxxviii. 25) = ChLM, by metathesis. [K.D. L.C.K. p. 500]"
       },
       {
         "word": "MBHAL",
+        "hebrew": "לאהבמ",
         "desc": "Angel of 2 S."
       },
       {
         "word": "MZLA",
+        "hebrew": "אלזמ",
         "desc": "The Influence from Kether"
       },
       {
         "word": "MLCh",
+        "hebrew": "חלמ",
         "desc": "Salt"
       },
       {
         "word": "a'aZA",
+        "hebrew": "אזע",
         "desc": "The name of a Giant"
       }
     ]
@@ -2662,26 +3209,32 @@
     "words": [
       {
         "word": "Ba'aZ",
+        "hebrew": "זעב",
         "desc": "Boaz, one of the Pillars of the Temple of Solomon"
       },
       {
         "word": "GVa'a",
+        "hebrew": "עוג",
         "desc": "Die"
       },
       {
         "word": "VMBAL",
+        "hebrew": "לאבמו",
         "desc": "Angel of 8 S."
       },
       {
         "word": "YAChYN",
+        "hebrew": "ניחאי",
         "desc": "Jachin, one of the Pillars of the Temple of Solomon"
       },
       {
         "word": "SYT",
+        "hebrew": "טיס",
         "desc": "3rd HB:Sh"
       },
       {
         "word": "a'aDH",
+        "hebrew": "הדע",
         "desc": "Conjunction, meeting, union"
       }
     ]
@@ -2692,64 +3245,73 @@
     "words": [
       {
         "word": "Va'aD",
+        "hebrew": "דעו",
         "desc": "Union; an assembling"
       },
       {
         "word": "YH ADNY",
+        "hebrew": "ינדא הי",
         "desc": "God of Jesod-Malkuth of Briah"
       },
       {
         "word": "YSVD",
+        "hebrew": "דוסי",
         "desc": "Foundation"
       },
       {
         "word": "KLL",
+        "hebrew": "ללכ",
         "desc": "Universal, general"
       },
       {
         "word": "KS",
+        "hebrew": "סכ",
         "desc": "Throne. [Exod. xvii. 16]"
       },
       {
         "word": "MM",
+        "hebrew": "ממ",
         "desc": ""
       }
     ]
   },
   {
     "number": 81,
-    "desc": null,
+    "desc": "= 4 Rt. 3 to the 4 power . Moon",
     "words": [
       {
-        "word": "t.",
-        "desc": "= 4 R 3 to the 4 power . Moon"
-      },
-      {
         "word": "ALYM",
+        "hebrew": "מילא",
         "desc": "GODS"
       },
       {
         "word": "ANKY",
+        "hebrew": "יכנא",
         "desc": "I. [Ex. xxiii. 20]"
       },
       {
         "word": "AP",
+        "hebrew": "פא",
         "desc": "Anger, wrath; also nose"
       },
       {
         "word": "YYLAL",
+        "hebrew": "לאליי",
         "desc": "Hearer of Cries; Angel of 6 P., and of 5 W."
       },
       {
         "word": "KAYN",
+        "hebrew": "ניאכ",
         "desc": "Night Demon of 2nd Dec. Virgo"
       },
       {
         "word": "KSA",
+        "hebrew": "אסכ",
         "desc": "Throne"
       },
       {
         "word": "PA",
+        "hebrew": "אפ",
         "desc": "Here, hither"
       }
     ]
@@ -2760,26 +3322,32 @@
     "words": [
       {
         "word": "ANAL",
+        "hebrew": "לאנא",
         "desc": "Angel of Venus"
       },
       {
         "word": "Ba'aY",
+        "hebrew": "יעב",
         "desc": "A Prayer (Ch.)"
       },
       {
         "word": "HYKL GVGH",
+        "hebrew": "הגוג לכיה",
         "desc": "Briatic Palace of Hod"
       },
       {
         "word": "ChSYD",
+        "hebrew": "דיסח",
         "desc": "Kindly, righteous, holy"
       },
       {
         "word": "LBN",
+        "hebrew": "נבל",
         "desc": "Laban; white"
       },
       {
         "word": "NYChVCh",
+        "hebrew": "חוחינ",
         "desc": "The beloved thing; res grata"
       }
     ]
@@ -2790,38 +3358,47 @@
     "words": [
       {
         "word": "ABYa'a",
+        "hebrew": "עיבא",
         "desc": "Abbreviatura quatuor systematum"
       },
       {
         "word": "AGLY TL",
+        "hebrew": "לט ילגא",
         "desc": "The drops of dew. [Job xxxviii. 28]"
       },
       {
         "word": "BNYYHV",
+        "hebrew": "והיינב",
         "desc": "Benajahu, son of Jehoiada"
       },
       {
         "word": "GYML",
+        "hebrew": "למיג",
         "desc": "See 73"
       },
       {
         "word": "GLYM",
+        "hebrew": "מילג",
         "desc": "A flowing, wave"
       },
       {
         "word": "GP",
+        "hebrew": "פג",
         "desc": "Person, self; (Ch.) wing"
       },
       {
         "word": "ChNKH",
+        "hebrew": "הכנח",
         "desc": "Consecration; dedicated"
       },
       {
         "word": "LKBAL",
+        "hebrew": "לאבכל",
         "desc": "Angel of 2 P."
       },
       {
         "word": "ZVa'a",
+        "hebrew": "עוז",
         "desc": "To flee, put one's things in safety. [Jerem. vi. 1]"
       }
     ]
@@ -2832,30 +3409,37 @@
     "words": [
       {
         "word": "AGP",
+        "hebrew": "פגא",
         "desc": "A wing (army), squadron; a chosen troop"
       },
       {
         "word": "AHCha'a",
+        "hebrew": "עחהא",
         "desc": "[I.Z.Q. 699]"
       },
       {
         "word": "AChHa'a",
+        "hebrew": "עהחא",
         "desc": "[Vide K.D. L.C.K. p.71]"
       },
       {
         "word": "DMM",
+        "hebrew": "ממד",
         "desc": "Was silent"
       },
       {
         "word": "ChLVM",
+        "hebrew": "מולח",
         "desc": "A dream"
       },
       {
         "word": "ChNVK",
+        "hebrew": "כונח",
         "desc": "Enoch"
       },
       {
         "word": "YDa'a",
+        "hebrew": "עדי",
         "desc": "Knew"
       }
     ]
@@ -2866,22 +3450,27 @@
     "words": [
       {
         "word": "BVa'aZ",
+        "hebrew": "זעוב",
         "desc": "Boaz (is referred to Hod)"
       },
       {
         "word": "GBYa'a",
+        "hebrew": "עיבג",
         "desc": "A flower, cup"
       },
       {
         "word": "HMM",
+        "hebrew": "ממה",
         "desc": "Put in motion, routed"
       },
       {
         "word": "MYLH",
+        "hebrew": "הלימ",
         "desc": "Circumcision"
       },
       {
         "word": "PH",
+        "hebrew": "הפ",
         "desc": "The mouth; the letter HB:P"
       }
     ]
@@ -2892,42 +3481,52 @@
     "words": [
       {
         "word": "AHYH ADNY",
+        "hebrew": "ינדא היהא",
         "desc": "A name of GOD, asserting the identity of Kether and Malkuth"
       },
       {
         "word": "ALHYM",
+        "hebrew": "מיהלא",
         "desc": "Elohim. [Note masc. pl. of fem. sing.]"
       },
       {
         "word": "HLLVYH",
+        "hebrew": "היוללה",
         "desc": "Hallelu-Jah"
       },
       {
         "word": "HMVLH",
+        "hebrew": "הלומה",
         "desc": "A rustling of wings"
       },
       {
         "word": "HNAL",
+        "hebrew": "לאנה",
         "desc": "Geomantic Intelligence of Capricorn"
       },
       {
         "word": "YH YHVH ADM",
+        "hebrew": "מדא הוהי הי",
         "desc": "[Vide I.R.Q. 778]"
       },
       {
         "word": "KVS",
+        "hebrew": "סוכ",
         "desc": "A cup; hence Pudendum Muliebre"
       },
       {
         "word": "MVM",
+        "hebrew": "מומ",
         "desc": "A blemish, spot, stain"
       },
       {
         "word": "MYHAL",
+        "hebrew": "לאהימ",
         "desc": "Angel of 10 C."
       },
       {
         "word": "MLVY",
+        "hebrew": "יולמ",
         "desc": "Plenitude"
       }
     ]
@@ -2938,34 +3537,42 @@
     "words": [
       {
         "word": "ALVN",
+        "hebrew": "נולא",
         "desc": "[Vide K.D. L.C.K. p. 114]"
       },
       {
         "word": "ASVK",
+        "hebrew": "כוסא",
         "desc": "A cup"
       },
       {
         "word": "BHLMY",
+        "hebrew": "ימלהב",
         "desc": "Angel of 1st Dec. Pisces"
       },
       {
         "word": "GDP",
+        "hebrew": "פדג",
         "desc": "Blasphemed"
       },
       {
         "word": "DGLYM",
+        "hebrew": "מילגד",
         "desc": "Standards, military ensigns"
       },
       {
         "word": "ZMM",
+        "hebrew": "ממז",
         "desc": "Determined"
       },
       {
         "word": "ChSYDH",
+        "hebrew": "הדיסח",
         "desc": "White Storks"
       },
       {
         "word": "LBNH",
+        "hebrew": "הנבל",
         "desc": "Whiteness; frankincense; Sphere of Moon"
       }
     ]
@@ -2976,22 +3583,27 @@
     "words": [
       {
         "word": "ChKLL",
+        "hebrew": "ללכח",
         "desc": "Redness; sparkling"
       },
       {
         "word": "ChMM",
+        "hebrew": "ממח",
         "desc": "To be hot"
       },
       {
         "word": "ChSK",
+        "hebrew": "כסח",
         "desc": "Darkness"
       },
       {
         "word": "MGDYAL",
+        "hebrew": "לאידגמ",
         "desc": "A duke of Edom"
       },
       {
         "word": "NChL",
+        "hebrew": "לחנ",
         "desc": "Roaring, seething; burning"
       }
     ]
@@ -3002,18 +3614,22 @@
     "words": [
       {
         "word": "GVP",
+        "hebrew": "פוג",
         "desc": "Shut up"
       },
       {
         "word": "GVP",
+        "hebrew": "פוג",
         "desc": "Body"
       },
       {
         "word": "DMMH",
+        "hebrew": "הממד",
         "desc": "Silence"
       },
       {
         "word": "MChYAL",
+        "hebrew": "לאיחמ",
         "desc": "Angel of 9 S."
       }
     ]
@@ -3024,26 +3640,32 @@
     "words": [
       {
         "word": "DVMM",
+        "hebrew": "ממוד",
         "desc": "Very silent"
       },
       {
         "word": "YKYN",
+        "hebrew": "ניכי",
         "desc": "The Pillar, Jachin"
       },
       {
         "word": "MYM",
+        "hebrew": "מימ",
         "desc": "Water"
       },
       {
         "word": "MLK",
+        "hebrew": "כלמ",
         "desc": "Kings"
       },
       {
         "word": "SL",
+        "hebrew": "לס",
         "desc": "Wicker-basket"
       },
       {
         "word": "PVD",
+        "hebrew": "דופ",
         "desc": "Night Demon of 2nd Dec. Leo"
       }
     ]
@@ -3054,50 +3676,62 @@
     "words": [
       {
         "word": "AYLN",
+        "hebrew": "נליא",
         "desc": "A tree"
       },
       {
         "word": "AMN",
+        "hebrew": "נמא",
         "desc": "Amen. [Cf. 741]"
       },
       {
         "word": "APVD",
+        "hebrew": "דופא",
         "desc": "The Ephod"
       },
       {
         "word": "YAHDVNHY",
+        "hebrew": "יהנודהאי",
         "desc": "The \"YHVH ADNY\", interlaced"
       },
       {
         "word": "KLYAL",
+        "hebrew": "לאילכ",
         "desc": "Angel of 4 S."
       },
       {
         "word": "KMAL",
+        "hebrew": "לאמכ",
         "desc": "Archangel of Geburah"
       },
       {
         "word": "MAKL",
+        "hebrew": "לכאמ",
         "desc": "Food, fare"
       },
       {
         "word": "MLAK",
+        "hebrew": "כאלמ",
         "desc": "Angel"
       },
       {
         "word": "MLKA",
+        "hebrew": "אכלמ",
         "desc": "Daughter, virgin, bride, Kore"
       },
       {
         "word": "MNA",
+        "hebrew": "אנמ",
         "desc": "Manna"
       },
       {
         "word": "SVKH",
+        "hebrew": "הכוס",
         "desc": "A hut, tent"
       },
       {
         "word": "PAHH",
+        "hebrew": "ההאפ",
         "desc": "Pekht, 'extension'"
       }
     ]
@@ -3108,18 +3742,22 @@
     "words": [
       {
         "word": "ANYAL",
+        "hebrew": "לאינא",
         "desc": "Angel of 5 S."
       },
       {
         "word": "BTz",
+        "hebrew": "צב",
         "desc": "Mud"
       },
       {
         "word": "YHVH ALHYK",
+        "hebrew": "כיהלא הוהי",
         "desc": "(Deut. xxviii. 58.) [Vide no. 572]"
       },
       {
         "word": "PChD",
+        "hebrew": "דחפ",
         "desc": "Terror, a name of Geburah"
       }
     ]
@@ -3130,26 +3768,32 @@
     "words": [
       {
         "word": "AHLYBMH",
+        "hebrew": "המבילהא",
         "desc": "A duke of Edom. [Vide also Ezekiel xxiii.]"
       },
       {
         "word": "BNY AL",
+        "hebrew": "לא ינב",
         "desc": "The sons of (the merciful) GOD"
       },
       {
         "word": "LBVNH",
+        "hebrew": "הנובל",
         "desc": "Incense"
       },
       {
         "word": "MGN",
+        "hebrew": "נגמ",
         "desc": "A disc, round shield"
       },
       {
         "word": "NChLH",
+        "hebrew": "הלחנ",
         "desc": "Possession"
       },
       {
         "word": "TzBA",
+        "hebrew": "אבצ",
         "desc": "Arduous, busy; an army"
       }
     ]
@@ -3160,34 +3804,42 @@
     "words": [
       {
         "word": "GVPH",
+        "hebrew": "הפוג",
         "desc": "Corpse"
       },
       {
         "word": "GYChZYVN",
+        "hebrew": "נויזחיג",
         "desc": "The valley of vision"
       },
       {
         "word": "Da'aK",
+        "hebrew": "כעד",
         "desc": "To extinguish"
       },
       {
         "word": "DPY",
+        "hebrew": "יפד",
         "desc": "Destruction. [Ps. l. 20]"
       },
       {
         "word": "ChVP",
+        "hebrew": "פוח",
         "desc": "A shore"
       },
       {
         "word": "ChLVN",
+        "hebrew": "נולח",
         "desc": "A window"
       },
       {
         "word": "TPH",
+        "hebrew": "הפט",
         "desc": "A drop"
       },
       {
         "word": "YLDYM",
+        "hebrew": "מידלי",
         "desc": "Children"
       }
     ]
@@ -3198,46 +3850,57 @@
     "words": [
       {
         "word": "ABN GDLH",
+        "hebrew": "הלדג נבא",
         "desc": "The great Stone"
       },
       {
         "word": "DNYAL",
+        "hebrew": "לאינד",
         "desc": "Angel of 2 W. --- Daniel"
       },
       {
         "word": "HHa'aYH",
+        "hebrew": "היעהה",
         "desc": "Angel of 10 P."
       },
       {
         "word": "HMYM",
+        "hebrew": "מימה",
         "desc": "The waters"
       },
       {
         "word": "HMN",
+        "hebrew": "נמה",
         "desc": "Multitude, abundance; Haman"
       },
       {
         "word": "ZBLVN",
+        "hebrew": "נולבז",
         "desc": "Zabulon"
       },
       {
         "word": "ZCha'aY",
+        "hebrew": "יעחז",
         "desc": "Angel of 2nd Dec. Leo"
       },
       {
         "word": "MADYM",
+        "hebrew": "מידאמ",
         "desc": "Mars"
       },
       {
         "word": "MHLK",
+        "hebrew": "כלהמ",
         "desc": "Journey"
       },
       {
         "word": "MLKH",
+        "hebrew": "הכלמ",
         "desc": "Queen"
       },
       {
         "word": "SLH",
+        "hebrew": "הלס",
         "desc": "Selah. [Ps. xxxii. 5, 6, etc.]"
       }
     ]
@@ -3248,26 +3911,32 @@
     "words": [
       {
         "word": "AL ADNY",
+        "hebrew": "ינדא לא",
         "desc": "A name of GOD"
       },
       {
         "word": "ALHYN",
+        "hebrew": "ניהלא",
         "desc": "Chaldee form of ALHYM"
       },
       {
         "word": "YVMM",
+        "hebrew": "ממוי",
         "desc": "By day"
       },
       {
         "word": "LLHAL",
+        "hebrew": "לאהלל",
         "desc": "Praiseworthy; Angel of 7 W."
       },
       {
         "word": "MLAKH",
+        "hebrew": "הכאלמ",
         "desc": "Work"
       },
       {
         "word": "SVD YHVH",
+        "hebrew": "הוהי דוס",
         "desc": "The secret (counsel) of the Lord. [Ps. xxv. 14]"
       }
     ]
@@ -3278,42 +3947,52 @@
     "words": [
       {
         "word": "AVMN",
+        "hebrew": "נמוא",
         "desc": "Breeder, rearer; Day Demon of 1st Dec. Gemini"
       },
       {
         "word": "AMVN",
+        "hebrew": "נומא",
         "desc": "Changeless, constant; the GOD Amon"
       },
       {
         "word": "BN ADM",
+        "hebrew": "מדא נב",
         "desc": "The Son of Man"
       },
       {
         "word": "HANYAL",
+        "hebrew": "לאינאה",
         "desc": "Archangel of Netzach"
       },
       {
         "word": "ZMN",
+        "hebrew": "נמז",
         "desc": "The appointed time"
       },
       {
         "word": "ChTP",
+        "hebrew": "פטח",
         "desc": "To seize suddenly (rapere)"
       },
       {
         "word": "TPCh",
+        "hebrew": "חפט",
         "desc": "A hand-breadth, palm. [I Kings vii. 26 --- Ex. xxv. 25]"
       },
       {
         "word": "LBYNH",
+        "hebrew": "הניבל",
         "desc": "A brick, tile"
       },
       {
         "word": "MBNH",
+        "hebrew": "הנבמ",
         "desc": "A building; an architect"
       },
       {
         "word": "MY AL HTB",
+        "hebrew": "בטה לא ימ",
         "desc": "Aquae EL Boni. [\"Quicksilver,\" K.D. L.C.K. p. 442]"
       }
     ]
@@ -3324,22 +4003,27 @@
     "words": [
       {
         "word": "HVA ALHYM",
+        "hebrew": "מיהלא אוה",
         "desc": "A name of GOD"
       },
       {
         "word": "ZMNA",
+        "hebrew": "אנמז",
         "desc": "Temporary dwelling. [Ex. xxxiii. 11]"
       },
       {
         "word": "ChMN",
+        "hebrew": "נמח",
         "desc": "Image; hid, concealed --- pertains to Sol and the Lingam-Yoni"
       },
       {
         "word": "ChSL",
+        "hebrew": "לסח",
         "desc": "To consume, eat"
       },
       {
         "word": "TzCh",
+        "hebrew": "חצ",
         "desc": "White"
       }
     ]
@@ -3350,18 +4034,22 @@
     "words": [
       {
         "word": "ChBLY LYDH",
+        "hebrew": "הדיל ילבח",
         "desc": "The pangs of childbirth"
       },
       {
         "word": "ChVPH",
+        "hebrew": "הפוח",
         "desc": "The Vault of Heaven; an inner chamber; wedlock, nuptial"
       },
       {
         "word": "TYTHYVN",
+        "hebrew": "נויהטיט",
         "desc": "Clay of Death, Infernal Abode of Geburah"
       },
       {
         "word": "YDYa'aH",
+        "hebrew": "העידי",
         "desc": "Cognition, knowledge"
       }
     ]
@@ -3372,22 +4060,27 @@
     "words": [
       {
         "word": "YMYM",
+        "hebrew": "מימי",
         "desc": "A day; the seas; the times. [Vide no. 1100]"
       },
       {
         "word": "KLYM",
+        "hebrew": "מילכ",
         "desc": "Vases, vessels"
       },
       {
         "word": "KP",
+        "hebrew": "פכ",
         "desc": "The palm; the letter Kaph"
       },
       {
         "word": "MDVN",
+        "hebrew": "נודמ",
         "desc": "An effort, exertion. [I.R.Q. 995]"
       },
       {
         "word": "MChY TBAL",
+        "hebrew": "לאבט יחמ",
         "desc": "Mitigation of the one by the other"
       }
     ]

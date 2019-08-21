@@ -1,3 +1,5 @@
+require_relative 'hebrew'
+
 class WordEntry
   attr_reader :word, :desc
 
@@ -11,9 +13,18 @@ class WordEntry
     @desc = (@desc + ' ' + desc + ' ').gsub(/\s{2,}/, ' ').strip
   end
 
+  def hebrew
+    Hebrew.to_hebrew(word)
+  end
+
+  def gematria
+    Hebrew.to_gematria(word)
+  end
+
   def as_json(options={})
     {
       word: word,
+      hebrew: hebrew,
       desc: desc
     }
   end
