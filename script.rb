@@ -1,13 +1,16 @@
 require 'json'
 require_relative 'lib/gematric_number'
 require_relative 'lib/hebrew_word'
+require_relative 'lib/pretty_printer'
 
 tokens = {
   perfect_number: ['P#'],
   factorial_of: ['\:\s{0,}\d{1,}\.', '\.\-\-'],
   sub_factorial_of: ['\:\:\s*\d+\.', ':\.-\-'],
   pi: ['Pi'],
-  square_root: ['Sq\.Rt\.']
+  square_root: ['Sq\.Rt\.'],
+  sum: ['SUM\s\(\d{1,}\-\d{1,}\)\.'],
+  power: ['\d{1,}\sto\sthe\s\d{1,}..\spower\s{0,}\.']
 }
 
 class String
@@ -29,15 +32,23 @@ File.readlines('input2.txt').each do |line|
   # If there is a number at the end of line
   if m = /\s(\d{1,})$/.match(line)
     read_words = false
+    number = m[1].to_i
 
-    unless current_entry.number.nil?
-      current_entry.add_word(current_word)
-      entries << current_entry
-      current_entry = GematricNumber.new
-      current_word = HebrewWord.new
+    # Validates number
+    p {
+      number: number,
+      current: current_entry.number.to_i
+    }.inspect
+    if number == current_entry.number.to_i + 1
+      unless current_entry.number.nil?
+        current_entry.add_word(current_word) unless current_entry.number == 1
+        entries << current_entry
+        current_entry = GematricNumber.new
+        current_word = HebrewWord.new
+      end
+      current_entry.number = number
+      line = line.gsub(/\s(\d{1,})$/, '')
     end
-    current_entry.number = m[1].to_i
-    line = line.gsub(/\s(\d{1,})$/, '')
   end
 
   # Check number for attributes
@@ -85,4 +96,7 @@ json = JSON.generate(entries)
 # json = JSON.pretty_generate(entries)
 
 File.write('output.json', json)
-puts json
+# puts json
+
+pretty_printer = PrettyPrinter.new(entries)
+pretty_printer.print

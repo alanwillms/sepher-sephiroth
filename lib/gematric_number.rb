@@ -1,6 +1,6 @@
 class GematricNumber
   attr_accessor :number
-  attr_accessor :desc
+  attr_reader :desc, :words
 
   def initialize
     @tags = []
