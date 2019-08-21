@@ -36,7 +36,7 @@ class Hebrew
         sentence = sentence.gsub(latin_letter.reverse, key[:hebrew])
       end
     end
-    sentence
+    sentence.reverse
   end
 
   def self.to_gematria(sentence)
