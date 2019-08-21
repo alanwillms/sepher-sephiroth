@@ -6,29 +6,35 @@ class HtmlRenderer
   end
 
   def output(filename)
-    output = '<table class="table is-striped is-condensed is-bordered">'
-    @sepher_sephiroth.each do |entry|
-      output += "<tr>\n"
-      if entry.desc.to_s.empty?
-        output += '<th colspan="2" class="has-text-right">' + entry.number.to_s + "</th>\n"
-      else
-        output += "<td>" + entry.desc + "</td>\n"
-        output += '<th class="has-text-right">' + entry.number.to_s + "</th>\n"
-      end
+    output = '<table class="table is-striped is-condensed">'
+    @sepher_sephiroth.each do |number_entry|
+      text_slot = number_entry.desc.to_s
+      number_slot = number_entry.number.to_s
 
+      number_slot = '🌸 ' + number_slot if number_entry.perfect?
+      number_slot = '√ ' + number_slot if number_entry.perfect_square?
+      number_slot = '∛ ' + number_slot if number_entry.perfect_cube?
+      number_slot = '∜ ' + number_slot if number_entry.perfect_squared_square?
+      number_slot = 'π ' + number_slot if number_entry.prime?
+
+      output += "<tr>\n"
+      output += '<td class="has-text-centered">' + text_slot + "</td>\n"
+      output += '<th colspan="2" class="has-text-right">' + number_slot + "</th>\n"
       output += "</tr>\n"
 
-      entry.words.each do |word|
+      number_entry.words.each do |word|
         gematria = word.gematria
-        if gematria == entry.number
+        if gematria == number_entry.number
           output += "<tr>\n"
         else
           output += '<tr class="has-background-danger has-text-white">' + "\n"
         end
         output += '<td>' + word.desc.to_s + "</td>\n"
         output += '<td class="has-text-right">'
-        output += ("<strong>[" + gematria.to_s + "]</strong> ") if gematria != entry.number
-        output += word.hebrew + " (" + (word.word.to_s) + ")</td>\n"
+        output += ("<strong>[" + gematria.to_s + "]</strong> ") if gematria != number_entry.number
+        output += word.hebrew
+        # output += " (" + (word.word.to_s) + ")"
+        output += "</td><td>&nbsp;</td>\n"
         output += "</tr>\n"
       end
     end
