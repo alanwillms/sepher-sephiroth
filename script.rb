@@ -1,6 +1,6 @@
 require 'json'
-require_relative 'lib/gematric_number'
-require_relative 'lib/hebrew_word'
+require_relative 'lib/number_entry'
+require_relative 'lib/word_entry'
 require_relative 'lib/pretty_printer'
 
 tokens = {
@@ -10,93 +10,65 @@ tokens = {
   pi: ['Pi'],
   square_root: ['Sq\.Rt\.'],
   sum: ['SUM\s\(\d{1,}\-\d{1,}\)\.'],
-  power: ['\d{1,}\sto\sthe\s\d{1,}..\spower\s{0,}\.']
+  power: ['\d{1,}\sto\sthe\s\d{1,}..\spower\s{0,}\.{0,1}']
 }
 
-class String
-  def is_i?
-   /\A[-+]?\d+\z/ === self
-  end
-end
+book_entries = File.read('input.txt').split("\n\n")
+sepher_sephiroth = []
 
-entries = []
+# range = (1..3321)
+range = (1..5)
 
-current_entry = GematricNumber.new
-current_word = HebrewWord.new
+range.to_a.each do |number|
+  # Look for the block
+  block = book_entries[number - 1]
 
-File.readlines('input2.txt').each do |line|
-  line = line.strip
-  line = line.gsub(/\s*\{\d*(a|b)\}/, '')
-  read_words = true
+  number_entry = NumberEntry.new(number)
 
-  # If there is a number at the end of line
-  if m = /\s(\d{1,})$/.match(line)
-    read_words = false
-    number = m[1].to_i
+  # Extract number
+  block = block.sub(Regexp.new("\s#{number}"), (' ' * (number.to_s.size + 1)))
 
-    # Validates number
-    p {
-      number: number,
-      current: current_entry.number.to_i
-    }.inspect
-    if number == current_entry.number.to_i + 1
-      unless current_entry.number.nil?
-        current_entry.add_word(current_word) unless current_entry.number == 1
-        entries << current_entry
-        current_entry = GematricNumber.new
-        current_word = HebrewWord.new
-      end
-      current_entry.number = number
-      line = line.gsub(/\s(\d{1,})$/, '')
-    end
-  end
-
-  # Check number for attributes
+  # Extract tags
   tokens.each do |token, expressions|
     expressions.each do |expression|
-      regex = Regexp.new('(\s|^)' + expression + '(\s|$)')
-      if line.match? regex
-        current_entry.add_tag(token)
-        line = line.gsub(regex, '')
+      regex = Regexp.new('(\s|^)(' + expression + ')(\s|$)')
+      if m = block.match(regex)
+        match_size = m[2].size
+        number_entry.add_tag(token)
+        block = block.sub(regex, '\1' + (' ' * (match_size - 2)) + '\3')
       end
     end
   end
 
-  ending = line[37..]
-  beginning = line[0..36]
+  # Read lines
+  word_entry = nil
 
-  # There is a new word at the far right?
-  if read_words
-    if ending.nil?
-      if current_word.word.nil?
-        current_entry.append_desc beginning
+  block.split("\n").each do |line|
+    beginning = line[0..36].to_s.strip
+    ending = line[37..].to_s.strip
 
-        # Skips
-        next
-      end
+    if !ending.empty? && ending != "\u0001"
+      number_entry.add_word(word_entry) if word_entry
+      word_entry = WordEntry.new(ending)
+      word_entry.append_desc(beginning)
     else
-      unless current_word.word.nil?
-        current_entry.add_word(current_word)
-        current_word = HebrewWord.new
+      if word_entry
+        word_entry.append_desc(beginning)
+      else
+        number_entry.append_desc(beginning)
       end
-
-      current_word.word = ending
     end
-
-    current_word.append_desc beginning
-  else
-    current_entry.append_desc beginning
   end
+
+  # Add last item
+  number_entry.add_word(word_entry) if word_entry
+
+  # Add to the book
+  sepher_sephiroth << number_entry
 end
 
-current_entry.add_word(current_word)
-entries << current_entry
-
-json = JSON.generate(entries)
-# json = JSON.pretty_generate(entries)
-
+json = JSON.pretty_generate(sepher_sephiroth)
 File.write('output.json', json)
-# puts json
 
-pretty_printer = PrettyPrinter.new(entries)
+pretty_printer = PrettyPrinter.new(sepher_sephiroth)
 pretty_printer.print

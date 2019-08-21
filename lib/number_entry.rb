@@ -1,15 +1,15 @@
-class GematricNumber
-  attr_accessor :number
-  attr_reader :desc, :words
+class NumberEntry
+  attr_reader :number, :desc, :words, :tags
 
-  def initialize
-    @tags = []
+  def initialize(number)
+    @number = number
+    @desc = nil
     @words = []
-    @desc = ''
+    @tags = []
   end
 
-  def add_tag(name)
-    @tags << name
+  def add_tag(tag)
+    @tags << tag
   end
 
   def add_word(word)
@@ -17,6 +17,7 @@ class GematricNumber
   end
 
   def append_desc(desc)
+    @desc ||= ''
     @desc = (@desc + ' ' + desc + ' ').gsub(/\s{2,}/, ' ').strip
   end
 

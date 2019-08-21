@@ -1,11 +1,13 @@
-class HebrewWord
-  attr_accessor :word, :desc
+class WordEntry
+  attr_reader :word, :desc
 
-  def initialize
-    @desc = ''
+  def initialize(word)
+    @word = word
+    @desc = nil
   end
 
   def append_desc(desc)
+    @desc ||= ''
     @desc = (@desc + ' ' + desc + ' ').gsub(/\s{2,}/, ' ').strip
   end
 
