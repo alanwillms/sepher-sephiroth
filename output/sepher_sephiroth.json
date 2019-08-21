@@ -19,7 +19,7 @@
   },
   {
     "number": 3,
-    "desc": "Saturn. The Mystic Number of Chokmah",
+    "desc": "♄. The Mystic Number of Chokmah",
     "words": [
       {
         "word": "AB",
@@ -35,7 +35,7 @@
   },
   {
     "number": 4,
-    "desc": "The Number of Abra-Melin Princes. Jupiter.",
+    "desc": "The Number of Abra-Melin Princes. ♃.",
     "words": [
       {
         "word": "ABA",
@@ -56,7 +56,7 @@
   },
   {
     "number": 5,
-    "desc": "Mars",
+    "desc": "♂",
     "words": [
       {
         "word": "AD",
@@ -72,7 +72,7 @@
   },
   {
     "number": 6,
-    "desc": "Sun. The Mystic Number of Binah",
+    "desc": "☉. The Mystic Number of Binah",
     "words": [
       {
         "word": "GBA",
@@ -98,7 +98,7 @@
   },
   {
     "number": 7,
-    "desc": "Venus",
+    "desc": "♀",
     "words": [
       {
         "word": "ABD",
@@ -108,7 +108,7 @@
       {
         "word": "AHA",
         "hebrew": "אהא",
-        "desc": "A name of GOD attributed to Venus. Initials of Adonai ha-Aretz"
+        "desc": "A name of GOD attributed to ♀. Initials of Adonai ha-Aretz"
       },
       {
         "word": "AV",
@@ -139,7 +139,7 @@
   },
   {
     "number": 8,
-    "desc": "The Number of Abra-Melin Sub-Princes, and of the Servitors of Oriens. Mercury",
+    "desc": "The Number of Abra-Melin Sub-Princes, and of the Servitors of Oriens. ☿",
     "words": [
       {
         "word": "ABH",
@@ -185,7 +185,7 @@
   },
   {
     "number": 9,
-    "desc": "Saturn. Moon",
+    "desc": "♄. ☽",
     "words": [
       {
         "word": "AVB",
@@ -501,7 +501,7 @@
       {
         "word": "ABVHA",
         "hebrew": "אבוהא",
-        "desc": "Angel of 3rd Dec. Sagittarius"
+        "desc": "Angel of 3rd Dec. ♐"
       },
       {
         "word": "ABYB",
@@ -700,7 +700,7 @@
       {
         "word": "AHVZ",
         "hebrew": "אהוז",
-        "desc": "Angel L.T.D. of Sagittarius"
+        "desc": "Angel L.T.D. of ♐"
       },
       {
         "word": "AVYB",
@@ -803,7 +803,7 @@
       {
         "word": "BYDV",
         "hebrew": "בידו",
-        "desc": "With his hand; Night Demon of 1st Dec. Cancer"
+        "desc": "With his hand; Night Demon of 1st Dec. ♋"
       },
       {
         "word": "BYVD",
@@ -1051,7 +1051,7 @@
       {
         "word": "ChYYB",
         "hebrew": "חייב",
-        "desc": "A party to an action at law; defendant, plaintiff. [Note HB:L = 30 = Libra = 'Justice']"
+        "desc": "A party to an action at law; defendant, plaintiff. [Note HB:L = 30 = ♎ = 'Justice']"
       },
       {
         "word": "YHVDH",
@@ -1169,7 +1169,7 @@
       {
         "word": "BAL",
         "hebrew": "באל",
-        "desc": "Day Demon of 1st Dec. Aries"
+        "desc": "Day Demon of 1st Dec. ♈"
       },
       {
         "word": "BLA",
@@ -1185,12 +1185,12 @@
   },
   {
     "number": 34,
-    "desc": "SUM (1 - (4 x 4)) / 4. Jupiter",
+    "desc": "SUM (1 - (4 x 4)) / 4. ♃",
     "words": [
       {
         "word": "AL AB",
         "hebrew": "אל אב",
-        "desc": "\"GOD the Father,\" divine name attributed to Jupiter"
+        "desc": "\"GOD the Father,\" divine name attributed to ♃"
       },
       {
         "word": "GAL",
@@ -1242,7 +1242,7 @@
   },
   {
     "number": 36,
-    "desc": "= Sun. The Mystic Number of Hod",
+    "desc": "= ☉. The Mystic Number of Hod",
     "words": [
       {
         "word": "AHL",
@@ -1257,7 +1257,7 @@
       {
         "word": "ALH",
         "hebrew": "אלה",
-        "desc": "Duke of Geburah in Edom; to curse; name of GOD attributed to Mercury"
+        "desc": "Duke of Geburah in Edom; to curse; name of GOD attributed to ☿"
       },
       {
         "word": "HLA",
@@ -1323,7 +1323,7 @@
       {
         "word": "VAL",
         "hebrew": "ואל",
-        "desc": "Night Demon of 2nd Dec. Sagittarius"
+        "desc": "Night Demon of 2nd Dec. ♐"
       },
       {
         "word": "ZL",
@@ -1354,7 +1354,7 @@
       {
         "word": "AVAL",
         "hebrew": "אואל",
-        "desc": "Night Demon of 2nd Dec. Cancer"
+        "desc": "Night Demon of 2nd Dec. ♋"
       },
       {
         "word": "AZL",
@@ -1487,7 +1487,7 @@
       {
         "word": "ALVD",
         "hebrew": "אלוד",
-        "desc": "Night Demon of 1st Dec. Virgo"
+        "desc": "Night Demon of 1st Dec. ♍"
       },
       {
         "word": "ALY",
@@ -1635,12 +1635,12 @@
       {
         "word": "GYAL",
         "hebrew": "גיאל",
-        "desc": "Angel ruling Gemini"
+        "desc": "Angel ruling ♊"
       },
       {
         "word": "DLY",
         "hebrew": "דלי",
-        "desc": "Aquarius"
+        "desc": "♒"
       },
       {
         "word": "DM",
@@ -1650,12 +1650,12 @@
       {
         "word": "ChVL",
         "hebrew": "חול",
-        "desc": "Sand: also horror. See Scorpion Pantacle in K. of S. and 10th Aethyr"
+        "desc": "Sand: also horror. See ♏n Pantacle in K. of S. and 10th Aethyr"
       },
       {
         "word": "TLH",
         "hebrew": "טלה",
-        "desc": "A ram; Aries"
+        "desc": "A ram; ♈"
       },
       {
         "word": "YVD HA VV HA",
@@ -1676,7 +1676,7 @@
       {
         "word": "AGYAL",
         "hebrew": "אגיאל",
-        "desc": "Intelligence of Saturn"
+        "desc": "Intelligence of ♄"
       },
       {
         "word": "ADM",
@@ -1711,7 +1711,7 @@
       {
         "word": "ZZAL",
         "hebrew": "זזאל",
-        "desc": "Spirit of Saturn"
+        "desc": "Spirit of ♄"
       },
       {
         "word": "ChBLH",
@@ -1752,7 +1752,7 @@
       {
         "word": "BDYL",
         "hebrew": "בדיל",
-        "desc": "Tin, the metal of Jupiter"
+        "desc": "Tin, the metal of ♃"
       },
       {
         "word": "HBDLH",
@@ -1772,7 +1772,7 @@
       {
         "word": "TVAL",
         "hebrew": "טואל",
-        "desc": "Angel ruling Taurus"
+        "desc": "Angel ruling ♉"
       },
       {
         "word": "LVY",
@@ -1803,7 +1803,7 @@
       {
         "word": "YVAL",
         "hebrew": "יואל",
-        "desc": "Angel ruling Virgo"
+        "desc": "Angel ruling ♍"
       },
       {
         "word": "ChLT",
@@ -1844,7 +1844,7 @@
       {
         "word": "KVKB",
         "hebrew": "כוכב",
-        "desc": "A star, planet; Sphere of Mercury"
+        "desc": "A star, planet; Sphere of ☿"
       },
       {
         "word": "MAZ",
@@ -1855,7 +1855,7 @@
   },
   {
     "number": 49,
-    "desc": "The Number of Abra-Melin Servitors of Beelzebub. Venus",
+    "desc": "The Number of Abra-Melin Servitors of Beelzebub. ♀",
     "words": [
       {
         "word": "LA ChY",
@@ -1875,7 +1875,7 @@
       {
         "word": "HGYAL",
         "hebrew": "הגיאל",
-        "desc": "Intelligence of Venus"
+        "desc": "Intelligence of ♀"
       },
       {
         "word": "ChVLH",
@@ -1997,7 +1997,7 @@
       {
         "word": "AYM",
         "hebrew": "אימ",
-        "desc": "Terrible; Day Demon of 2nd Dec. Scorpio"
+        "desc": "Terrible; Day Demon of 2nd Dec. ♏"
       },
       {
         "word": "AKL",
@@ -2058,7 +2058,7 @@
       {
         "word": "BYM",
         "hebrew": "בימ",
-        "desc": "Day Demon of 2nd Dec. Sagittarius"
+        "desc": "Day Demon of 2nd Dec. ♐"
       },
       {
         "word": "BKL",
@@ -2293,7 +2293,7 @@
       {
         "word": "AVN",
         "hebrew": "אונ",
-        "desc": "Wealth, an age, Time; Night Demon of 1st Dec. Scorpio"
+        "desc": "Wealth, an age, Time; Night Demon of 1st Dec. ♏"
       },
       {
         "word": "AYVM",
@@ -2318,7 +2318,7 @@
       {
         "word": "DGYM",
         "hebrew": "דגימ",
-        "desc": "Pisces. [Fish (pl.); vide 7]"
+        "desc": "♓. [Fish (pl.); vide 7]"
       },
       {
         "word": "VVLYH",
@@ -2359,7 +2359,7 @@
       {
         "word": "DAGN",
         "hebrew": "דאגנ",
-        "desc": "Night Demon of 1st Dec. Sagittarius"
+        "desc": "Night Demon of 1st Dec. ♐"
       },
       {
         "word": "ChYLY",
@@ -2528,7 +2528,7 @@
       {
         "word": "BHHMY",
         "hebrew": "בההמי",
-        "desc": "Angel of 2nd Dec. Aries"
+        "desc": "Angel of 2nd Dec. ♈"
       },
       {
         "word": "BNY",
@@ -2585,7 +2585,7 @@
   },
   {
     "number": 64,
-    "desc": "= 4 to the 3rd power = 2 to the 6th power. Mercury",
+    "desc": "= 4 to the 3rd power = 2 to the 6th power. ☿",
     "words": [
       {
         "word": "ANChH",
@@ -2600,7 +2600,7 @@
       {
         "word": "DNY",
         "hebrew": "דני",
-        "desc": "(Din and Doni are twin Mercurial Intelligences in Gemini)"
+        "desc": "(Din and Doni are twin Mercurial Intelligences in ♊)"
       },
       {
         "word": "MY ZHB",
@@ -2620,7 +2620,7 @@
       {
         "word": "NVGH",
         "hebrew": "נוגה",
-        "desc": "Sphere of Venus"
+        "desc": "Sphere of ♀"
       },
       {
         "word": "NVCh",
@@ -2738,7 +2738,7 @@
       {
         "word": "VYNA",
         "hebrew": "וינא",
-        "desc": "Night Demon of 3rd Dec. Gemini"
+        "desc": "Night Demon of 3rd Dec. ♊"
       },
       {
         "word": "ZYN",
@@ -2810,7 +2810,7 @@
       {
         "word": "VKBYLA",
         "hebrew": "וכבילא",
-        "desc": "L.A. Angel of Pisces"
+        "desc": "L.A. Angel of ♓"
       }
     ]
   },
@@ -2867,12 +2867,12 @@
       {
         "word": "AMDVK",
         "hebrew": "אמדוכ",
-        "desc": "Night Demon of 1st Dec. Aquarius"
+        "desc": "Night Demon of 1st Dec. ♒"
       },
       {
         "word": "ANK",
         "hebrew": "אנכ",
-        "desc": "Lead, the metal of Saturn; a plummet-line, level, water- level."
+        "desc": "Lead, the metal of ♄; a plummet-line, level, water- level."
       },
       {
         "word": "ChZVN",
@@ -2908,7 +2908,7 @@
       {
         "word": "ADVKYAL",
         "hebrew": "אדוכיאל",
-        "desc": "Geomantic Intelligence of Sagittarius"
+        "desc": "Geomantic Intelligence of ♐"
       },
       {
         "word": "BKN",
@@ -2954,7 +2954,7 @@
       {
         "word": "BLYAL",
         "hebrew": "בליאל",
-        "desc": "Demon-King of Hod, and Night Demon of 2nd Dec. Aquarius"
+        "desc": "Demon-King of Hod, and Night Demon of 2nd Dec. ♒"
       },
       {
         "word": "GML",
@@ -3129,7 +3129,7 @@
       {
         "word": "ZMAL",
         "hebrew": "זמאל",
-        "desc": "Angel of Mars"
+        "desc": "Angel of ♂"
       },
       {
         "word": "ChLM",
@@ -3154,7 +3154,7 @@
       {
         "word": "KDMDY",
         "hebrew": "כדמדי",
-        "desc": "Angel of 1st Dec. Taurus"
+        "desc": "Angel of 1st Dec. ♉"
       },
       {
         "word": "LChM",
@@ -3257,7 +3257,7 @@
   },
   {
     "number": 81,
-    "desc": "= 4 Rt. 3 to the 4 power . Moon",
+    "desc": "= 4 Rt. 3 to the 4 power . ☽",
     "words": [
       {
         "word": "ALYM",
@@ -3282,7 +3282,7 @@
       {
         "word": "KAYN",
         "hebrew": "כאינ",
-        "desc": "Night Demon of 2nd Dec. Virgo"
+        "desc": "Night Demon of 2nd Dec. ♍"
       },
       {
         "word": "KSA",
@@ -3303,7 +3303,7 @@
       {
         "word": "ANAL",
         "hebrew": "אנאל",
-        "desc": "Angel of Venus"
+        "desc": "Angel of ♀"
       },
       {
         "word": "Ba'aY",
@@ -3482,7 +3482,7 @@
       {
         "word": "HNAL",
         "hebrew": "הנאל",
-        "desc": "Geomantic Intelligence of Capricorn"
+        "desc": "Geomantic Intelligence of ♑"
       },
       {
         "word": "YH YHVH ADM",
@@ -3528,7 +3528,7 @@
       {
         "word": "BHLMY",
         "hebrew": "בהלמי",
-        "desc": "Angel of 1st Dec. Pisces"
+        "desc": "Angel of 1st Dec. ♓"
       },
       {
         "word": "GDP",
@@ -3553,7 +3553,7 @@
       {
         "word": "LBNH",
         "hebrew": "לבנה",
-        "desc": "Whiteness; frankincense; Sphere of Moon"
+        "desc": "Whiteness; frankincense; Sphere of ☽"
       }
     ]
   },
@@ -3646,7 +3646,7 @@
       {
         "word": "PVD",
         "hebrew": "פוד",
-        "desc": "Night Demon of 2nd Dec. Leo"
+        "desc": "Night Demon of 2nd Dec. ♌"
       }
     ]
   },
@@ -3861,12 +3861,12 @@
       {
         "word": "ZCha'aY",
         "hebrew": "זחעי",
-        "desc": "Angel of 2nd Dec. Leo"
+        "desc": "Angel of 2nd Dec. ♌"
       },
       {
         "word": "MADYM",
         "hebrew": "מאדימ",
-        "desc": "Mars"
+        "desc": "♂"
       },
       {
         "word": "MHLK",
@@ -3928,7 +3928,7 @@
       {
         "word": "AVMN",
         "hebrew": "אומנ",
-        "desc": "Breeder, rearer; Day Demon of 1st Dec. Gemini"
+        "desc": "Breeder, rearer; Day Demon of 1st Dec. ♊"
       },
       {
         "word": "AMVN",
@@ -4092,7 +4092,7 @@
       {
         "word": "MYKAL",
         "hebrew": "מיכאל",
-        "desc": "Archangel of Sun and Fire; Angel of 7 S.; Angel of Malkuth of Briah, etc."
+        "desc": "Archangel of ☉ and Fire; Angel of 7 S.; Angel of Malkuth of Briah, etc."
       },
       {
         "word": "MLVKH",
@@ -4283,7 +4283,7 @@
       {
         "word": "a'aVAL",
         "hebrew": "עואל",
-        "desc": "Angel ruling Leo"
+        "desc": "Angel ruling ♌"
       }
     ]
   },
@@ -4339,7 +4339,7 @@
       {
         "word": "SGHM",
         "hebrew": "סגהמ",
-        "desc": "Angel L.T.D. of Leo"
+        "desc": "Angel L.T.D. of ♌"
       },
       {
         "word": "a'aZAL",
@@ -4355,7 +4355,7 @@
       {
         "word": "ASKVZDAY",
         "hebrew": "אסכוזדאי",
-        "desc": "Day-demon of 2nd Dec. Aquarius"
+        "desc": "Day-demon of 2nd Dec. ♒"
       },
       {
         "word": "BQZ",
@@ -4375,7 +4375,7 @@
       {
         "word": "SChYAL",
         "hebrew": "סחיאל",
-        "desc": "Angel of Jupiter"
+        "desc": "Angel of ♃"
       },
       {
         "word": "a'aGVL",
@@ -4411,7 +4411,7 @@
       {
         "word": "VTHTz",
         "hebrew": "וטהצ",
-        "desc": "Cherubic Signs --- Scorpio replaced by Aries"
+        "desc": "Cherubic Signs --- ♏ replaced by ♈"
       },
       {
         "word": "ChBQ",
@@ -4442,7 +4442,7 @@
   },
   {
     "number": 111,
-    "desc": "The Number of Abra-Melin Servitors of O.P.A.A. SUM (1 - (6 x 6))/6. Sun",
+    "desc": "The Number of Abra-Melin Servitors of O.P.A.A. SUM (1 - (6 x 6))/6. ☉",
     "words": [
       {
         "word": "ADMVNY",
@@ -4487,7 +4487,7 @@
       {
         "word": "NKYAL",
         "hebrew": "נכיאל",
-        "desc": "Angel of Sun"
+        "desc": "Angel of ☉"
       },
       {
         "word": "a'aVLH",
@@ -4606,7 +4606,7 @@
       {
         "word": "DMLYAL",
         "hebrew": "דמליאל",
-        "desc": "Geomantic Intelligence of Virgo"
+        "desc": "Geomantic Intelligence of ♍"
       },
       {
         "word": "HNNY",
@@ -4715,7 +4715,7 @@
       {
         "word": "ChALP",
         "hebrew": "חאלפ",
-        "desc": "Night Demon of 2nd Dec. Aries"
+        "desc": "Night Demon of 2nd Dec. ♈"
       },
       {
         "word": "PGVL",
@@ -4807,7 +4807,7 @@
       {
         "word": "Ka'aAL",
         "hebrew": "כעאל",
-        "desc": "Angel ruling Cancer"
+        "desc": "Angel ruling ♋"
       },
       {
         "word": "NMLA",
@@ -4817,7 +4817,7 @@
       {
         "word": "a'aKAL",
         "hebrew": "עכאל",
-        "desc": "Angel L.T.N. of Cancer"
+        "desc": "Angel L.T.N. of ♋"
       }
     ]
   },
@@ -4896,7 +4896,7 @@
       {
         "word": "DNMAL",
         "hebrew": "דנמאל",
-        "desc": "Night Demon of 2nd Dec. Pisces"
+        "desc": "Night Demon of 2nd Dec. ♓"
       },
       {
         "word": "KPKH",
@@ -4927,7 +4927,7 @@
       {
         "word": "GYMYGYN",
         "hebrew": "גימיגינ",
-        "desc": "Day Demon of 1st Dec. Taurus"
+        "desc": "Day Demon of 1st Dec. ♉"
       },
       {
         "word": "YHVH ADNY AGLA",
@@ -4979,7 +4979,7 @@
       {
         "word": "ANMVAL",
         "hebrew": "אנמואל",
-        "desc": "Angel ruling Aquarius"
+        "desc": "Angel ruling ♒"
       },
       {
         "word": "ChLTz",
@@ -5097,7 +5097,7 @@
       {
         "word": "SSYA",
         "hebrew": "ססיא",
-        "desc": "Angel L.T.N. of Virgo"
+        "desc": "Angel L.T.N. of ♍"
       },
       {
         "word": "a'aNVH",
@@ -5171,12 +5171,12 @@
       {
         "word": "GVSYVN",
         "hebrew": "גוסיונ",
-        "desc": "Day Demon of 2nd Dec. Cancer"
+        "desc": "Day Demon of 2nd Dec. ♋"
       },
       {
         "word": "MLKDYAL",
         "hebrew": "מלכדיאל",
-        "desc": "Geomantic Intelligence of Aries"
+        "desc": "Geomantic Intelligence of ♈"
       },
       {
         "word": "a'aNYH",
@@ -5197,17 +5197,17 @@
   },
   {
     "number": 136,
-    "desc": "Jupiter",
+    "desc": "♃",
     "words": [
       {
         "word": "HSMAL",
         "hebrew": "הסמאל",
-        "desc": "Spirit of Jupiter"
+        "desc": "Spirit of ♃"
       },
       {
         "word": "YHPYAL",
         "hebrew": "יהפיאל",
-        "desc": "Intelligence of Jupiter"
+        "desc": "Intelligence of ♃"
       },
       {
         "word": "MLAK HGVAL",
@@ -5347,7 +5347,7 @@
       {
         "word": "PKYAL",
         "hebrew": "פכיאל",
-        "desc": "L.A. Angel of Cancer"
+        "desc": "L.A. Angel of ♋"
       },
       {
         "word": "QMA",
@@ -5363,7 +5363,7 @@
       {
         "word": "ASMVDAL",
         "hebrew": "אסמודאל",
-        "desc": "Geomantic Intelligence of Taurus"
+        "desc": "Geomantic Intelligence of ♉"
       },
       {
         "word": "BLYa'aL",
@@ -5378,7 +5378,7 @@
       {
         "word": "Ba'aLM",
         "hebrew": "בעלמ",
-        "desc": "Night Demon of 3rd Dec. Leo"
+        "desc": "Night Demon of 3rd Dec. ♌"
       },
       {
         "word": "MChMDYM",
@@ -5504,7 +5504,7 @@
       {
         "word": "MAZNYM",
         "hebrew": "מאזנימ",
-        "desc": "Scales; Libra"
+        "desc": "Scales; ♎"
       },
       {
         "word": "NTzCh",
@@ -5572,7 +5572,7 @@
       {
         "word": "MALP",
         "hebrew": "מאלפ",
-        "desc": "Night Demon of 3rd Dec. Aries"
+        "desc": "Night Demon of 3rd Dec. ♈"
       },
       {
         "word": "MQVH",
@@ -5619,7 +5619,7 @@
       {
         "word": "ChDQYAL",
         "hebrew": "חדקיאל",
-        "desc": "L.A. Angel of Libra"
+        "desc": "L.A. Angel of ♎"
       }
     ]
   },
@@ -5661,7 +5661,7 @@
       {
         "word": "YSYSYH",
         "hebrew": "יסיסיה",
-        "desc": "Angel of 2nd Dec. Capricorn"
+        "desc": "Angel of 2nd Dec. ♑"
       },
       {
         "word": "a'aLMYH",
@@ -5707,7 +5707,7 @@
       {
         "word": "KMVTz",
         "hebrew": "כמוצ",
-        "desc": "Angel of 1st Dec. Scorpio"
+        "desc": "Angel of 1st Dec. ♏"
       },
       {
         "word": "Na'aVL",
@@ -5743,7 +5743,7 @@
       {
         "word": "DMDVMY ChMH",
         "hebrew": "דמדומי חמה",
-        "desc": "The setting of the Sun"
+        "desc": "The setting of the ☉"
       },
       {
         "word": "Za'aP",
@@ -5903,12 +5903,12 @@
       {
         "word": "GLASLBVL",
         "hebrew": "גלאסלבול",
-        "desc": "Day Demon of 1st Dec. Sagittarius"
+        "desc": "Day Demon of 1st Dec. ♐"
       },
       {
         "word": "SVSVL",
         "hebrew": "סוסול",
-        "desc": "Angel ruling Scorpio"
+        "desc": "Angel ruling ♏"
       }
     ]
   },
@@ -6007,7 +6007,7 @@
       {
         "word": "NPVL",
         "hebrew": "נפול",
-        "desc": "Night Demon of 3rd Dec. Scorpio"
+        "desc": "Night Demon of 3rd Dec. ♏"
       },
       {
         "word": "a'aVTz",
@@ -6092,7 +6092,7 @@
       {
         "word": "PLAYN",
         "hebrew": "פלאינ",
-        "desc": "Angel L.T.N. of Aquarius"
+        "desc": "Angel L.T.N. of ♒"
       },
       {
         "word": "PNYAL",
@@ -6139,7 +6139,7 @@
       {
         "word": "GTzP",
         "hebrew": "גצפ",
-        "desc": "Day Demon of 3rd Dec. Aquarius"
+        "desc": "Day Demon of 3rd Dec. ♒"
       }
     ]
   },
@@ -6161,7 +6161,7 @@
   },
   {
     "number": 175,
-    "desc": "SUM (1 - (7 x 7))/7) Venus",
+    "desc": "SUM (1 - (7 x 7))/7) ♀",
     "words": [
       {
         "word": "YNYQH",
@@ -6181,7 +6181,7 @@
       {
         "word": "QDMAL",
         "hebrew": "קדמאל",
-        "desc": "Spirit of Venus"
+        "desc": "Spirit of ♀"
       }
     ]
   },
@@ -6228,7 +6228,7 @@
       {
         "word": "SGDLa'aY",
         "hebrew": "סגדלעי",
-        "desc": "Angel L.T.D. of Capricorn"
+        "desc": "Angel L.T.D. of ♑"
       },
       {
         "word": "MLVY HMLVY",
@@ -6484,7 +6484,7 @@
       {
         "word": "PAKTz",
         "hebrew": "פאכצ",
-        "desc": "Night Demon of 1st Dec. Aries"
+        "desc": "Night Demon of 1st Dec. ♈"
       },
       {
         "word": "QVPH",
@@ -6523,7 +6523,7 @@
       {
         "word": "TzDQ",
         "hebrew": "צדק",
-        "desc": "Righteousness, equity, justice: the Sphere of Jupiter. [Vide K.D. L.C.K. p. 656]"
+        "desc": "Righteousness, equity, justice: the Sphere of ♃. [Vide K.D. L.C.K. p. 656]"
       }
     ]
   },
@@ -6676,7 +6676,7 @@
       {
         "word": "SAYTzYAL",
         "hebrew": "סאיציאל",
-        "desc": "L.A. Angel of Scorpio"
+        "desc": "L.A. Angel of ♏"
       },
       {
         "word": "RB",
@@ -6749,7 +6749,7 @@
       {
         "word": "AGAR",
         "hebrew": "אגאר",
-        "desc": "Day Demon of 2nd Dec. Aries"
+        "desc": "Day Demon of 2nd Dec. ♈"
       },
       {
         "word": "ADR",
@@ -6801,7 +6801,7 @@
       {
         "word": "AGRAB",
         "hebrew": "אגראב",
-        "desc": "Scorpio, a scorpion"
+        "desc": "♏, a scorpion"
       },
       {
         "word": "ADVN a'aVLM",
@@ -6969,7 +6969,7 @@
       {
         "word": "BZAR",
         "hebrew": "בזאר",
-        "desc": "Day Demon of 1st Dec. Cancer"
+        "desc": "Day Demon of 1st Dec. ♋"
       },
       {
         "word": "BChR",
@@ -7009,7 +7009,7 @@
       {
         "word": "MSNYN",
         "hebrew": "מסנינ",
-        "desc": "Angel of 1st Dec. Capricorn"
+        "desc": "Angel of 1st Dec. ♑"
       },
       {
         "word": "Na'aMN",
@@ -7076,7 +7076,7 @@
       {
         "word": "HAVR",
         "hebrew": "האור",
-        "desc": "Night Demon of 1st Dec. Capricorn"
+        "desc": "Night Demon of 1st Dec. ♑"
       },
       {
         "word": "ZHR",
@@ -7153,7 +7153,7 @@
       {
         "word": "ZZR",
         "hebrew": "זזר",
-        "desc": "Angel of 1st Dec. Aries"
+        "desc": "Angel of 1st Dec. ♈"
       },
       {
         "word": "ChVR",
@@ -7194,7 +7194,7 @@
       {
         "word": "ZRCh",
         "hebrew": "זרח",
-        "desc": "A rising; to rise \"as the Sun,\" give light"
+        "desc": "A rising; to rise \"as the ☉,\" give light"
       },
       {
         "word": "ChZR",
@@ -7210,7 +7210,7 @@
       {
         "word": "AVRAVB",
         "hebrew": "אוראוב",
-        "desc": "Night Demon of 1st Dec. Libra"
+        "desc": "Night Demon of 1st Dec. ♎"
       },
       {
         "word": "ARYH",
@@ -7291,12 +7291,12 @@
       {
         "word": "MVYa'aSAL",
         "hebrew": "מויעסאל",
-        "desc": "Angel ruling Sagittarius"
+        "desc": "Angel ruling ♐"
       },
       {
         "word": "SHQNB",
         "hebrew": "סהקנב",
-        "desc": "Angel L.T.N. of Scorpio"
+        "desc": "Angel L.T.N. of ♏"
       },
       {
         "word": "RYBH",
@@ -7327,7 +7327,7 @@
       {
         "word": "YRCh",
         "hebrew": "ירח",
-        "desc": "The Moon"
+        "desc": "The ☽"
       },
       {
         "word": "RBVY",
@@ -7390,7 +7390,7 @@
   },
   {
     "number": 221,
-    "desc": "Left-handed Svastika, drawn on the square of Mars given by Agrippa. Cf. 231",
+    "desc": "Left-handed Svastika, drawn on the square of ♂ given by Agrippa. Cf. 231",
     "words": [
       {
         "word": "ARK",
@@ -7581,7 +7581,7 @@
       {
         "word": "RAYDYH",
         "hebrew": "ראידיה",
-        "desc": "Angel of 2nd Dec. Virgo"
+        "desc": "Angel of 2nd Dec. ♍"
       },
       {
         "word": "YGLPZQ",
@@ -7592,7 +7592,7 @@
   },
   {
     "number": 231,
-    "desc": "Right-handed Svastika, drawn on Sq. of Mars",
+    "desc": "Right-handed Svastika, drawn on Sq. of ♂",
     "words": [
       {
         "word": "ARYK",
@@ -7613,7 +7613,7 @@
       {
         "word": "AMNYTzYAL",
         "hebrew": "אמניציאל",
-        "desc": "Geomantic Intelligence of Pisces"
+        "desc": "Geomantic Intelligence of ♓"
       },
       {
         "word": "ARAL",
@@ -7655,7 +7655,7 @@
       {
         "word": "DKAVRAB",
         "hebrew": "דכאוראב",
-        "desc": "Night Demon of 3rd Dec. Aquarius"
+        "desc": "Night Demon of 3rd Dec. ♒"
       }
     ]
   },
@@ -7677,7 +7677,7 @@
       {
         "word": "SPa'aTAVY",
         "hebrew": "ספעטאוי",
-        "desc": "Angel of L.T.N. of Aries"
+        "desc": "Angel of L.T.N. of ♈"
       },
       {
         "word": "QVMTz",
@@ -7735,7 +7735,7 @@
       {
         "word": "YKSGNVTz",
         "hebrew": "יכסגנוצ",
-        "desc": "Angel of 3rd Dec. Taurus"
+        "desc": "Angel of 3rd Dec. ♉"
       }
     ]
   },
@@ -7761,7 +7761,7 @@
       {
         "word": "SSPM",
         "hebrew": "סספמ",
-        "desc": "Angel of 1st Dec. Aquarius"
+        "desc": "Angel of 1st Dec. ♒"
       },
       {
         "word": "PQVDYM",
@@ -7782,7 +7782,7 @@
       {
         "word": "SMQYAL",
         "hebrew": "סמקיאל",
-        "desc": "L.A. Angel of Capricorn"
+        "desc": "L.A. Angel of ♑"
       }
     ]
   },
@@ -7892,7 +7892,7 @@
       {
         "word": "HRYAL",
         "hebrew": "הריאל",
-        "desc": "Angel L.T.D. of Taurus"
+        "desc": "Angel L.T.D. of ♉"
       },
       {
         "word": "RVM",
@@ -7908,7 +7908,7 @@
       {
         "word": "ALVYR",
         "hebrew": "אלויר",
-        "desc": "Angel L.T.D. of Capricorn"
+        "desc": "Angel L.T.D. of ♑"
       },
       {
         "word": "ZRM",
@@ -7923,7 +7923,7 @@
       {
         "word": "RAVM",
         "hebrew": "ראומ",
-        "desc": "Night Demon of 1st Dec. Taurus"
+        "desc": "Night Demon of 1st Dec. ♉"
       },
       {
         "word": "RMZ",
@@ -7985,12 +7985,12 @@
       {
         "word": "ARZYAL",
         "hebrew": "ארזיאל",
-        "desc": "L.A. Angel of Taurus"
+        "desc": "L.A. Angel of ♉"
       },
       {
         "word": "GMVR",
         "hebrew": "גמור",
-        "desc": "Night Demon of 2nd Dec. Libra"
+        "desc": "Night Demon of 2nd Dec. ♎"
       },
       {
         "word": "MGVR",
@@ -8075,12 +8075,12 @@
       {
         "word": "GRVDYAL",
         "hebrew": "גרודיאל",
-        "desc": "Angel of 3rd Dec. Aquarius"
+        "desc": "Angel of 3rd Dec. ♒"
       },
       {
         "word": "ZVRYAL",
         "hebrew": "זוריאל",
-        "desc": "Geomantic Intelligence of Libra"
+        "desc": "Geomantic Intelligence of ♎"
       },
       {
         "word": "ChMVR",
@@ -8121,7 +8121,7 @@
       {
         "word": "ANDR",
         "hebrew": "אנדר",
-        "desc": "Night Demon of 3rd Dec. Sagittarius"
+        "desc": "Night Demon of 3rd Dec. ♐"
       },
       {
         "word": "ChVMRA",
@@ -8256,12 +8256,12 @@
   },
   {
     "number": 260,
-    "desc": "SUM (1 - (8 x 8))/8. Mercury",
+    "desc": "SUM (1 - (8 x 8))/8. ☿",
     "words": [
       {
         "word": "TYRYAL",
         "hebrew": "טיריאל",
-        "desc": "Intelligence of Mercury"
+        "desc": "Intelligence of ☿"
       },
       {
         "word": "TMYRA",
@@ -8359,17 +8359,17 @@
       {
         "word": "ABDRVN",
         "hebrew": "אבדרונ",
-        "desc": "Angel of 2nd Dec. Aquarius"
+        "desc": "Angel of 2nd Dec. ♒"
       },
       {
         "word": "AVRVN",
         "hebrew": "אורונ",
-        "desc": "Angel of 2nd Dec. Pisces"
+        "desc": "Angel of 2nd Dec. ♓"
       },
       {
         "word": "BRKYAL",
         "hebrew": "ברכיאל",
-        "desc": "Geomantic Intelligence of Scorpio"
+        "desc": "Geomantic Intelligence of ♏"
       },
       {
         "word": "GMTRYA",
@@ -8468,7 +8468,7 @@
       {
         "word": "VRKYAL",
         "hebrew": "ורכיאל",
-        "desc": "Geomantic Intelligence of Leo"
+        "desc": "Geomantic Intelligence of ♌"
       },
       {
         "word": "MRKBH",
@@ -8537,7 +8537,7 @@
       {
         "word": "VHRYN",
         "hebrew": "והרינ",
-        "desc": "Angel of 2nd Dec. Sagittarius"
+        "desc": "Angel of 2nd Dec. ♐"
       },
       {
         "word": "LAMR",
@@ -8573,7 +8573,7 @@
       {
         "word": "RYNVV",
         "hebrew": "רינוו",
-        "desc": "Day Demon of 3rd Dec. Sagittarius"
+        "desc": "Day Demon of 3rd Dec. ♐"
       }
     ]
   },
@@ -8652,7 +8652,7 @@
       {
         "word": "AChVBRAYN",
         "hebrew": "אחובראינ",
-        "desc": "Angel L.T.N. of Libra. [Vide Liber 777, p. 29]"
+        "desc": "Angel L.T.N. of ♎. [Vide Liber 777, p. 29]"
       },
       {
         "word": "KNVR",
@@ -8662,12 +8662,12 @@
       {
         "word": "KRVKL",
         "hebrew": "כרוכל",
-        "desc": "Night Demon of 1st Dec. Leo"
+        "desc": "Night Demon of 1st Dec. ♌"
       },
       {
         "word": "SYHRA",
         "hebrew": "סיהרא",
-        "desc": "The Moon"
+        "desc": "The ☽"
       }
     ]
   },
@@ -8688,7 +8688,7 @@
       {
         "word": "SHYBR",
         "hebrew": "סהיבר",
-        "desc": "Angel of 3rd Dec. Leo"
+        "desc": "Angel of 3rd Dec. ♌"
       },
       {
         "word": "Ra'aVA",
@@ -8736,7 +8736,7 @@
       {
         "word": "DGDGYRVN",
         "hebrew": "דגדגירונ",
-        "desc": "Qliphoth of Capricorn"
+        "desc": "Qliphoth of ♑"
       },
       {
         "word": "DKRVN",
@@ -8835,7 +8835,7 @@
       {
         "word": "AMBRYAL",
         "hebrew": "אמבריאל",
-        "desc": "Geomantic Intelligence of Gemini"
+        "desc": "Geomantic Intelligence of ♊"
       },
       {
         "word": "a'aRVGH",
@@ -8874,7 +8874,7 @@
       {
         "word": "VPAR",
         "hebrew": "ופאר",
-        "desc": "Night Demon of 3rd Dec. Taurus"
+        "desc": "Night Demon of 3rd Dec. ♉"
       },
       {
         "word": "Za'aYR",
@@ -8884,7 +8884,7 @@
       {
         "word": "MVRYAL",
         "hebrew": "מוריאל",
-        "desc": "Geomantic Intelligence of Cancer"
+        "desc": "Geomantic Intelligence of ♋"
       }
     ]
   },
@@ -8900,7 +8900,7 @@
       {
         "word": "ZAPR",
         "hebrew": "זאפר",
-        "desc": "Day Demon of 1st Dec. Virgo"
+        "desc": "Day Demon of 1st Dec. ♍"
       },
       {
         "word": "a'aYBVR",
@@ -8973,7 +8973,7 @@
       {
         "word": "TzKMQYAL",
         "hebrew": "צכמקיאל",
-        "desc": "L.A. Angel of Aquarius"
+        "desc": "L.A. Angel of ♒"
       }
     ]
   },
@@ -9005,7 +9005,7 @@
       {
         "word": "TzARB",
         "hebrew": "צארב",
-        "desc": "Day Demon of 2nd Dec. Taurus"
+        "desc": "Day Demon of 2nd Dec. ♉"
       }
     ]
   },
@@ -9146,7 +9146,7 @@
       {
         "word": "RHDTz",
         "hebrew": "רהדצ",
-        "desc": "Angel of 2nd Dec. Cancer"
+        "desc": "Angel of 2nd Dec. ♋"
       }
     ]
   },
@@ -9234,7 +9234,7 @@
       {
         "word": "SRAYAL",
         "hebrew": "סראיאל",
-        "desc": "L.A. Angel of Gemini"
+        "desc": "L.A. Angel of ♊"
       },
       {
         "word": "QBR",
@@ -9276,7 +9276,7 @@
       {
         "word": "KAMBRYAL",
         "hebrew": "כאמבריאל",
-        "desc": "Geomantic Intelligence of Aquarius"
+        "desc": "Geomantic Intelligence of ♒"
       },
       {
         "word": "QDR",
@@ -9389,7 +9389,7 @@
       {
         "word": "VRYATz",
         "hebrew": "וריאצ",
-        "desc": "Night Demon of 2nd Dec. Scorpio"
+        "desc": "Night Demon of 2nd Dec. ♏"
       },
       {
         "word": "RBQH",
@@ -9446,7 +9446,7 @@
       {
         "word": "MNChRAY",
         "hebrew": "מנחראי",
-        "desc": "Angel of 2nd Dec. Taurus"
+        "desc": "Angel of 2nd Dec. ♉"
       },
       {
         "word": "ShAGH",
@@ -9492,7 +9492,7 @@
       {
         "word": "KPYR",
         "hebrew": "כפיר",
-        "desc": "Leo iuvenis"
+        "desc": "♌ iuvenis"
       },
       {
         "word": "MDVRYN",
@@ -9523,7 +9523,7 @@
       {
         "word": "RPAL",
         "hebrew": "רפאל",
-        "desc": "Archangel of Air; Angel of Mercury, and of Chokmah of Briah, etc."
+        "desc": "Archangel of Air; Angel of ☿, and of Chokmah of Briah, etc."
       },
       {
         "word": "ShBT",
@@ -9539,7 +9539,7 @@
       {
         "word": "VShV",
         "hebrew": "ושו",
-        "desc": "Night Demon of 3rd Dec. Libra"
+        "desc": "Night Demon of 3rd Dec. ♎"
       },
       {
         "word": "ChDSh",
@@ -9560,7 +9560,7 @@
       {
         "word": "ANNAVRH",
         "hebrew": "אננאורה",
-        "desc": "Angel of 1st Dec. Virgo"
+        "desc": "Angel of 1st Dec. ♍"
       }
     ]
   },
@@ -9628,7 +9628,7 @@
       {
         "word": "VShAGV",
         "hebrew": "ושאגו",
-        "desc": "Day Demon of 3rd Dec. Aries"
+        "desc": "Day Demon of 3rd Dec. ♈"
       },
       {
         "word": "ChBVSh",
@@ -9679,7 +9679,7 @@
       {
         "word": "VALPR",
         "hebrew": "ואלפר",
-        "desc": "Day Demon of 3rd Dec. Taurus"
+        "desc": "Day Demon of 3rd Dec. ♉"
       },
       {
         "word": "ZRa'aM",
@@ -9748,7 +9748,7 @@
       {
         "word": "SRYTYAL",
         "hebrew": "סריטיאל",
-        "desc": "L.A. Angel of Sagittarius"
+        "desc": "L.A. Angel of ♐"
       }
     ]
   },
@@ -9759,12 +9759,12 @@
       {
         "word": "ALYNKYR",
         "hebrew": "אלינכיר",
-        "desc": "Angel of 3rd Dec. Cancer"
+        "desc": "Angel of 3rd Dec. ♋"
       },
       {
         "word": "LSLRA",
         "hebrew": "לסלרא",
-        "desc": "Angel L.T.D. of Virgo"
+        "desc": "Angel L.T.D. of ♍"
       },
       {
         "word": "ShAHYH",
@@ -9774,7 +9774,7 @@
       {
         "word": "ADYMYRVN",
         "hebrew": "אדימירונ",
-        "desc": "Qliphoth of Taurus"
+        "desc": "Qliphoth of ♉"
       }
     ]
   },
@@ -9790,7 +9790,7 @@
       {
         "word": "LBRMYM",
         "hebrew": "לברמימ",
-        "desc": "Angel L.T.N. of Sagittarius"
+        "desc": "Angel L.T.N. of ♐"
       },
       {
         "word": "QV HAMTza'aY",
@@ -9811,12 +9811,12 @@
       {
         "word": "BHYMYRVN",
         "hebrew": "בהימירונ",
-        "desc": "Qliphoth of Aquarius"
+        "desc": "Qliphoth of ♒"
       },
       {
         "word": "STNDR",
         "hebrew": "סטנדר",
-        "desc": "Angel of 3rd Dec. Aries"
+        "desc": "Angel of 3rd Dec. ♈"
       }
     ]
   },
@@ -9833,22 +9833,22 @@
   },
   {
     "number": 325,
-    "desc": "Mars",
+    "desc": "♂",
     "words": [
       {
         "word": "BRTzBAL",
         "hebrew": "ברצבאל",
-        "desc": "Spirit of Mars"
+        "desc": "Spirit of ♂"
       },
       {
         "word": "GRAPYAL",
         "hebrew": "גראפיאל",
-        "desc": "Intelligence of Mars"
+        "desc": "Intelligence of ♂"
       },
       {
         "word": "NYNDVHR",
         "hebrew": "נינדוהר",
-        "desc": "Angel of 2nd Dec. Scorpio"
+        "desc": "Angel of 2nd Dec. ♏"
       },
       {
         "word": "TzRYKH",
@@ -9880,7 +9880,7 @@
       {
         "word": "BVTYSh",
         "hebrew": "בוטיש",
-        "desc": "Day Demon of 2nd Dec. Virgo"
+        "desc": "Day Demon of 2nd Dec. ♍"
       },
       {
         "word": "YShYBH",
@@ -9890,7 +9890,7 @@
       {
         "word": "KYTzAVR",
         "hebrew": "כיצאור",
-        "desc": "Night Demon of 3rd Dec. Capricorn"
+        "desc": "Night Demon of 3rd Dec. ♑"
       }
     ]
   },
@@ -9917,7 +9917,7 @@
       {
         "word": "TRSNY",
         "hebrew": "טרסני",
-        "desc": "Angel of 1st Dec. Libra"
+        "desc": "Angel of 1st Dec. ♎"
       }
     ]
   },
@@ -9975,7 +9975,7 @@
       {
         "word": "ANDRVMAL",
         "hebrew": "אנדרומאל",
-        "desc": "Night Demon of 3rd Dec. Pisces"
+        "desc": "Night Demon of 3rd Dec. ♓"
       },
       {
         "word": "MBTzR",
@@ -10054,7 +10054,7 @@
       {
         "word": "ShBKYD",
         "hebrew": "שבכיד",
-        "desc": "Night Demon of 1st Dec. Gemini"
+        "desc": "Night Demon of 1st Dec. ♊"
       }
     ]
   },
@@ -10114,7 +10114,7 @@
       {
         "word": "YSGDYBRVDYAL",
         "hebrew": "יסגדיברודיאל",
-        "desc": "Angel of 3rd Dec. Sagittarius"
+        "desc": "Angel of 3rd Dec. ♐"
       },
       {
         "word": "LYSh",
@@ -10191,7 +10191,7 @@
       {
         "word": "PVKLVR",
         "hebrew": "פוכלור",
-        "desc": "Night Demon of 2nd Dec. Taurus"
+        "desc": "Night Demon of 2nd Dec. ♉"
       },
       {
         "word": "ShLHBH",
@@ -10345,7 +10345,7 @@
       {
         "word": "ALYGVSh",
         "hebrew": "אליגוש",
-        "desc": "Day Demon of 3rd Dec. Leo"
+        "desc": "Day Demon of 3rd Dec. ♌"
       },
       {
         "word": "SPYR",
@@ -10396,7 +10396,7 @@
       {
         "word": "LVSNHR",
         "hebrew": "לוסנהר",
-        "desc": "Saturn in Leo. Angel ruling 1st Dec. Leo, that was rising at the birth of FRATER PERDURABO"
+        "desc": "♄ in ♌. Angel ruling 1st Dec. ♌, that was rising at the birth of FRATER PERDURABO"
       },
       {
         "word": "MVShH",
@@ -10579,7 +10579,7 @@
       {
         "word": "STRYP",
         "hebrew": "סטריפ",
-        "desc": "Angel of 3rd Dec. Pisces"
+        "desc": "Angel of 3rd Dec. ♓"
       },
       {
         "word": "ShTYM",
@@ -10666,7 +10666,7 @@
       {
         "word": "KShYAL",
         "hebrew": "כשיאל",
-        "desc": "Ruler of Saturn"
+        "desc": "Ruler of ♄"
       },
       {
         "word": "MTzRAL",
@@ -10742,7 +10742,7 @@
       {
         "word": "ANDRALP",
         "hebrew": "אנדראלפ",
-        "desc": "Night Demon of 2nd Dec. Capricorn"
+        "desc": "Night Demon of 2nd Dec. ♑"
       }
     ]
   },
@@ -10758,7 +10758,7 @@
       {
         "word": "PAYKVRN",
         "hebrew": "פאיכורנ",
-        "desc": "Day Demon of 3rd Dec. Gemini"
+        "desc": "Day Demon of 3rd Dec. ♊"
       }
     ]
   },
@@ -10775,12 +10775,12 @@
   },
   {
     "number": 369,
-    "desc": "SUM (1 - (9 x 9))/9. Moon",
+    "desc": "SUM (1 - (9 x 9))/9. ☽",
     "words": [
       {
         "word": "ChShMVDAY",
         "hebrew": "חשמודאי",
-        "desc": "Spirit of Moon. [Vide Liber 777, p. 19]"
+        "desc": "Spirit of ☽. [Vide Liber 777, p. 19]"
       },
       {
         "word": "a'aVLM HBRYAH",
@@ -10790,7 +10790,7 @@
       {
         "word": "ShHDNY",
         "hebrew": "שהדני",
-        "desc": "Angel of 2nd Dec. Gemini"
+        "desc": "Angel of 2nd Dec. ♊"
       }
     ]
   },
@@ -10873,7 +10873,7 @@
       {
         "word": "a'aQRB",
         "hebrew": "עקרב",
-        "desc": "Scorpio"
+        "desc": "♏"
       },
       {
         "word": "a'aShB",
@@ -11045,7 +11045,7 @@
       {
         "word": "TzARATz",
         "hebrew": "צאראצ",
-        "desc": "Day Demon of 3rd Dec. Libra"
+        "desc": "Day Demon of 3rd Dec. ♎"
       }
     ]
   },
@@ -11074,7 +11074,7 @@
       {
         "word": "MHRNTz",
         "hebrew": "מהרנצ",
-        "desc": "Angel of 2nd Dec. Libra"
+        "desc": "Angel of 2nd Dec. ♎"
       },
       {
         "word": "a'aShYH",
@@ -11181,7 +11181,7 @@
       {
         "word": "ShTz",
         "hebrew": "שצ",
-        "desc": "Night Demon of 2nd Dec. Gemini"
+        "desc": "Night Demon of 2nd Dec. ♊"
       }
     ]
   },
@@ -11278,7 +11278,7 @@
       {
         "word": "YPVSh",
         "hebrew": "יפוש",
-        "desc": "Day Demon of 1st Dec. Scorpio"
+        "desc": "Day Demon of 1st Dec. ♏"
       }
     ]
   },
@@ -11310,7 +11310,7 @@
       {
         "word": "STRa'aTN",
         "hebrew": "סטרעטנ",
-        "desc": "Angel L.T.D. of Aries"
+        "desc": "Angel L.T.D. of ♈"
       },
       {
         "word": "ShChTz",
@@ -11849,12 +11849,12 @@
       {
         "word": "KShVYa'aYH",
         "hebrew": "כשויעיה",
-        "desc": "Angel ruling Capricorn"
+        "desc": "Angel ruling ♑"
       },
       {
         "word": "PShYAL",
         "hebrew": "פשיאל",
-        "desc": "Angel ruling Pisces"
+        "desc": "Angel ruling ♓"
       }
     ]
   },
@@ -11892,7 +11892,7 @@
       {
         "word": "TVTTh",
         "hebrew": "טוטת",
-        "desc": "Angel L.T.N. of Taurus"
+        "desc": "Angel L.T.N. of ♉"
       }
     ]
   },
@@ -12057,7 +12057,7 @@
       {
         "word": "BLATh",
         "hebrew": "בלאת",
-        "desc": "Day Demon of 1st Dec. Leo"
+        "desc": "Day Demon of 1st Dec. ♌"
       },
       {
         "word": "ZKVTh",
@@ -12110,7 +12110,7 @@
       {
         "word": "BYThChVY",
         "hebrew": "ביתחוי",
-        "desc": "Angel L.T.D. of Scorpio"
+        "desc": "Angel L.T.D. of ♏"
       },
       {
         "word": "HVSha'aNH",
@@ -12163,7 +12163,7 @@
       {
         "word": "a'aVGRMa'aN",
         "hebrew": "עוגרמענ",
-        "desc": "Angel L.T.N. of Gemini"
+        "desc": "Angel L.T.N. of ♊"
       }
     ]
   },
@@ -12210,12 +12210,12 @@
       {
         "word": "LRYAR",
         "hebrew": "לריאר",
-        "desc": "Day Demon of 2nd Dec. Leo"
+        "desc": "Day Demon of 2nd Dec. ♌"
       },
       {
         "word": "RMRA",
         "hebrew": "רמרא",
-        "desc": "Angel L.T.D. of Pisces"
+        "desc": "Angel L.T.D. of ♓"
       }
     ]
   },
@@ -12237,7 +12237,7 @@
       {
         "word": "BThVLH",
         "hebrew": "בתולה",
-        "desc": "A virgin; a city. Virgo"
+        "desc": "A virgin; a city. ♍"
       },
       {
         "word": "GLYTh",
@@ -12532,7 +12532,7 @@
       {
         "word": "TzLLD MYRVN",
         "hebrew": "צללד מירונ",
-        "desc": "Qliphoth of Gemini"
+        "desc": "Qliphoth of ♊"
       },
       {
         "word": "QDSh LYHVH",
@@ -12585,7 +12585,7 @@
       {
         "word": "BAThYN",
         "hebrew": "באתינ",
-        "desc": "Day Demon of 3rd Dec. Virgo"
+        "desc": "Day Demon of 3rd Dec. ♍"
       },
       {
         "word": "GSTh",
@@ -12681,7 +12681,7 @@
       {
         "word": "BYThVN",
         "hebrew": "ביתונ",
-        "desc": "Angel of 3rd Dec. Gemini"
+        "desc": "Angel of 3rd Dec. ♊"
       }
     ]
   },
@@ -12802,7 +12802,7 @@
       {
         "word": "Ra'aDR",
         "hebrew": "רעדר",
-        "desc": "Angel L.T.D. of Cancer"
+        "desc": "Angel L.T.D. of ♋"
       }
     ]
   },
@@ -13164,7 +13164,7 @@
       {
         "word": "ThAVMYM",
         "hebrew": "תאומימ",
-        "desc": "Gemini; Gemini"
+        "desc": "♊; ♊"
       }
     ]
   },
@@ -13243,7 +13243,7 @@
       {
         "word": "ShAR",
         "hebrew": "שאר",
-        "desc": "Flesh; Night Demon of 1st Dec. Pisces"
+        "desc": "Flesh; Night Demon of 1st Dec. ♓"
       },
       {
         "word": "ShKYNH a'aYLAH",
@@ -13323,7 +13323,7 @@
       {
         "word": "ShVR",
         "hebrew": "שור",
-        "desc": "Bovis a sinistra; an ox; Taurus. [Vide K.D. L.C.K. p. 99] --- Taurus"
+        "desc": "Bovis a sinistra; an ox; ♉. [Vide K.D. L.C.K. p. 99] --- ♉"
       }
     ]
   },
@@ -13429,7 +13429,7 @@
       {
         "word": "ShChDR",
         "hebrew": "שחדר",
-        "desc": "Angel of 3rd Dec. Libra"
+        "desc": "Angel of 3rd Dec. ♎"
       }
     ]
   },
@@ -13495,7 +13495,7 @@
       {
         "word": "ARYMYRVN",
         "hebrew": "ארימירונ",
-        "desc": "Qliphoth of Taurus. [Vide no. 321, & Liber 777]"
+        "desc": "Qliphoth of ♉. [Vide no. 321, & Liber 777]"
       },
       {
         "word": "MThNH TVBH",
@@ -13528,7 +13528,7 @@
       {
         "word": "BRBTVSh",
         "hebrew": "ברבטוש",
-        "desc": "Day Demon of 2nd Dec. Gemini"
+        "desc": "Day Demon of 2nd Dec. ♊"
       }
     ]
   },
@@ -13638,7 +13638,7 @@
       {
         "word": "ShYTRY",
         "hebrew": "שיטרי",
-        "desc": "Day Demon of 3rd Dec.Cancer"
+        "desc": "Day Demon of 3rd Dec.♋"
       }
     ]
   },
@@ -13855,7 +13855,7 @@
       {
         "word": "ShRHYAL",
         "hebrew": "שרהיאל",
-        "desc": "L.A. Angel of Aries"
+        "desc": "L.A. Angel of ♈"
       }
     ]
   },
@@ -13873,12 +13873,12 @@
       {
         "word": "Ba'aYRYRVN",
         "hebrew": "בעירירונ",
-        "desc": "Qliphoth of Aries"
+        "desc": "Qliphoth of ♈"
       },
       {
         "word": "HTzGNTh",
         "hebrew": "הצגנת",
-        "desc": "Night Demon of 3rd Dec. Cancer"
+        "desc": "Night Demon of 3rd Dec. ♋"
       },
       {
         "word": "YHVH ALVH VDa'aTh",
@@ -13888,7 +13888,7 @@
       {
         "word": "a'aBYRYRVN",
         "hebrew": "עבירירונ",
-        "desc": "Qliphoth of Libra"
+        "desc": "Qliphoth of ♎"
       }
     ]
   },
@@ -13925,7 +13925,7 @@
       {
         "word": "ShRTYAL",
         "hebrew": "שרטיאל",
-        "desc": "L.A. Angel of Leo"
+        "desc": "L.A. Angel of ♌"
       },
       {
         "word": "ShRYM",
@@ -13975,7 +13975,7 @@
       {
         "word": "MRChVSh",
         "hebrew": "מרחוש",
-        "desc": "Day Demon of 2nd Dec. Pisces"
+        "desc": "Day Demon of 2nd Dec. ♓"
       }
     ]
   },
@@ -14101,7 +14101,7 @@
       {
         "word": "SGRSh",
         "hebrew": "סגרש",
-        "desc": "Angel of 1st Dec. Gemini"
+        "desc": "Angel of 1st Dec. ♊"
       }
     ]
   },
@@ -14286,7 +14286,7 @@
       {
         "word": "PVRPVR",
         "hebrew": "פורפור",
-        "desc": "Day Demon of 1st Dec. Pisces"
+        "desc": "Day Demon of 1st Dec. ♓"
       }
     ]
   },
@@ -14476,7 +14476,7 @@
       {
         "word": "PVRASh",
         "hebrew": "פוראש",
-        "desc": "Day Demon of 1st Dec. Aquarius"
+        "desc": "Day Demon of 1st Dec. ♒"
       }
     ]
   },
@@ -14650,7 +14650,7 @@
       {
         "word": "ShLHBYRVN",
         "hebrew": "שלהבירונ",
-        "desc": "Qliphoth of Leo"
+        "desc": "Qliphoth of ♌"
       }
     ]
   },
@@ -14805,7 +14805,7 @@
       {
         "word": "BRYTh",
         "hebrew": "ברית",
-        "desc": "(The covenant) --- Day Demon of 1st Dec. Capricorn. [Ps. xxv. 14]"
+        "desc": "(The covenant) --- Day Demon of 1st Dec. ♑. [Ps. xxv. 14]"
       }
     ]
   },
@@ -14851,7 +14851,7 @@
       {
         "word": "ShYMYRVN",
         "hebrew": "שימירונ",
-        "desc": "Qliphoth of Pisces"
+        "desc": "Qliphoth of ♓"
       },
       {
         "word": "ThYRV",
@@ -14920,7 +14920,7 @@
       {
         "word": "MShPR",
         "hebrew": "משפר",
-        "desc": "Angel of 3rd Dec. Virgo"
+        "desc": "Angel of 3rd Dec. ♍"
       },
       {
         "word": "TzPNTh",
@@ -15004,7 +15004,7 @@
       {
         "word": "NChShYRVN",
         "hebrew": "נחשירונ",
-        "desc": "Qliphoth of Sagittarius"
+        "desc": "Qliphoth of ♐"
       }
     ]
   },
@@ -15071,7 +15071,7 @@
       {
         "word": "Sa'aRSh",
         "hebrew": "סערש",
-        "desc": "Angel L.T.D. of Gemini"
+        "desc": "Angel L.T.D. of ♊"
       },
       {
         "word": "RVChA QDYShA",
@@ -15145,7 +15145,7 @@
       {
         "word": "TzPRYRVN",
         "hebrew": "צפרירונ",
-        "desc": "Qliphoth of Virgo"
+        "desc": "Qliphoth of ♍"
       }
     ]
   },
@@ -15156,12 +15156,12 @@
       {
         "word": "PVRNASh",
         "hebrew": "פורנאש",
-        "desc": "Day Demon of 3rd Dec. Capricorn"
+        "desc": "Day Demon of 3rd Dec. ♑"
       },
       {
         "word": "ShALVSh",
         "hebrew": "שאלוש",
-        "desc": "Day Demon of 1st Dec. Libra"
+        "desc": "Day Demon of 1st Dec. ♎"
       }
     ]
   },
@@ -15200,7 +15200,7 @@
       {
         "word": "ShMSh",
         "hebrew": "שמש",
-        "desc": "Sun; Sphere of Sun"
+        "desc": "☉; Sphere of ☉"
       },
       {
         "word": "ThMR",
@@ -15237,7 +15237,7 @@
       {
         "word": "PVRShVN",
         "hebrew": "פורשונ",
-        "desc": "Day Demon of 2nd Dec. Scorpio"
+        "desc": "Day Demon of 2nd Dec. ♏"
       }
     ]
   },
@@ -15408,12 +15408,12 @@
       {
         "word": "VThRVDYAL",
         "hebrew": "ותרודיאל",
-        "desc": "Angel of 3rd Dec. Scorpio"
+        "desc": "Angel of 3rd Dec. ♏"
       },
       {
         "word": "ZLBRChYTh",
         "hebrew": "זלברחית",
-        "desc": "Zelbarachith; Leo"
+        "desc": "Zelbarachith; ♌"
       }
     ]
   },
@@ -15464,7 +15464,7 @@
       {
         "word": "YShTVLVSh",
         "hebrew": "ישטולוש",
-        "desc": "Day Demon of 3rd Dec. Pisces"
+        "desc": "Day Demon of 3rd Dec. ♓"
       },
       {
         "word": "ShVShNH",
@@ -15474,7 +15474,7 @@
       {
         "word": "ThRGBVN",
         "hebrew": "תרגבונ",
-        "desc": "Angel L.T.D. of Libra"
+        "desc": "Angel L.T.D. of ♎"
       }
     ]
   },
@@ -15525,7 +15525,7 @@
   },
   {
     "number": 666,
-    "desc": "Sun. The Number of THE BEAST",
+    "desc": "☉. The Number of THE BEAST",
     "words": [
       {
         "word": "ALHYSTHR H KRa'aVLHY",
@@ -15545,12 +15545,12 @@
       {
         "word": "NShYMYRVN",
         "hebrew": "נשימירונ",
-        "desc": "Qliphoth of Pisces"
+        "desc": "Qliphoth of ♓"
       },
       {
         "word": "SVRTh",
         "hebrew": "סורת",
-        "desc": "Spirit of Sun"
+        "desc": "Spirit of ☉"
       },
       {
         "word": "a'aMMV SThN",
@@ -15683,7 +15683,7 @@
       {
         "word": "a'aThVR",
         "hebrew": "עתור",
-        "desc": "Angel L.T.D. of Aquarius"
+        "desc": "Angel L.T.D. of ♒"
       }
     ]
   },
@@ -15974,7 +15974,7 @@
       {
         "word": "NThDVRYGAL",
         "hebrew": "נתדוריגאל",
-        "desc": "Angel L.T.N. of Pisces"
+        "desc": "Angel L.T.N. of ♓"
       }
     ]
   },
@@ -16076,7 +16076,7 @@
       {
         "word": "ShBThAY",
         "hebrew": "שבתאי",
-        "desc": "Sphere of Saturn"
+        "desc": "Sphere of ♄"
       },
       {
         "word": "ThShVBH",
@@ -16654,7 +16654,7 @@
       {
         "word": "ShLThYAL",
         "hebrew": "שלתיאל",
-        "desc": "L.A. Angel of Virgo"
+        "desc": "L.A. Angel of ♍"
       }
     ]
   },
@@ -16783,7 +16783,7 @@
       {
         "word": "ShYChRYRVN",
         "hebrew": "שיחרירונ",
-        "desc": "Qliphoth of Cancer"
+        "desc": "Qliphoth of ♋"
       }
     ]
   },
@@ -16928,7 +16928,7 @@
       {
         "word": "QShTh",
         "hebrew": "קשת",
-        "desc": "A bow; Sagittarius. The three Paths leading from Malkuth; hence much symbolism of the Rain- bow of Promise"
+        "desc": "A bow; ♐. The three Paths leading from Malkuth; hence much symbolism of the Rain- bow of Promise"
       }
     ]
   },
@@ -17528,7 +17528,7 @@
       {
         "word": "ShMSh VYRCh",
         "hebrew": "שמש וירח",
-        "desc": "Sun and Moon"
+        "desc": "☉ and ☽"
       }
     ]
   },
@@ -18200,7 +18200,7 @@
       {
         "word": "MShRATh",
         "hebrew": "משראת",
-        "desc": "Angel of 1st Dec. Sagittarius"
+        "desc": "Angel of 1st Dec. ♐"
       }
     ]
   },
@@ -18250,7 +18250,7 @@
       {
         "word": "MThRAVSh",
         "hebrew": "מתראוש",
-        "desc": "Angel of 1st Dec. Cancer"
+        "desc": "Angel of 1st Dec. ♋"
       }
     ]
   },
@@ -18895,7 +18895,7 @@
       {
         "word": "NChShThYRVN",
         "hebrew": "נחשתירונ",
-        "desc": "Qliphoth of Virgo"
+        "desc": "Qliphoth of ♍"
       }
     ]
   },
@@ -20400,7 +20400,7 @@
   },
   {
     "number": 1225,
-    "desc": "= Venus.",
+    "desc": "= ♀.",
     "words": [
       {
         "word": "a'aThYQA Da'aThYQYN",
@@ -20995,7 +20995,7 @@
       {
         "word": "AShThRVTh",
         "hebrew": "אשתרות",
-        "desc": "Angel L.T.D, of 2nd Dec. Capricorn, and King-Demon of Geburah"
+        "desc": "Angel L.T.D, of 2nd Dec. ♑, and King-Demon of Geburah"
       }
     ]
   },
@@ -26450,12 +26450,12 @@
   },
   {
     "number": 2080,
-    "desc": "Mercury",
+    "desc": "☿",
     "words": [
       {
         "word": "ThPThRThRTh",
         "hebrew": "תפתרתרת",
-        "desc": "Spirit of Mercury"
+        "desc": "Spirit of ☿"
       }
     ]
   },
@@ -35145,17 +35145,17 @@
   },
   {
     "number": 3321,
-    "desc": "Moon.",
+    "desc": "☽.",
     "words": [
       {
         "word": "MLKA BThRShYShYM Va'aD BRVH ShHRYM",
         "hebrew": "מלכא בתרשישימ ועד ברוה שהרימ",
-        "desc": "The Intelligence of the Intelligences of the Moon"
+        "desc": "The Intelligence of the Intelligences of the ☽"
       },
       {
         "word": "ShDBRShHMa'aTh ShRThThN",
         "hebrew": "שדברשהמעת שרתתנ",
-        "desc": "The Spirit of the Spirits of the Moon"
+        "desc": "The Spirit of the Spirits of the ☽"
       }
     ]
   }

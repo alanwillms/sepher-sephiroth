@@ -1,16 +1,11 @@
 require_relative 'hebrew'
+require_relative 'base_entry'
 
-class WordEntry
-  attr_reader :word, :desc
+class WordEntry < BaseEntry
+  attr_reader :word
 
   def initialize(word)
     @word = word
-    @desc = nil
-  end
-
-  def append_desc(desc)
-    @desc ||= ''
-    @desc = (@desc + ' ' + desc + ' ').gsub(/\s{2,}/, ' ').strip
   end
 
   def hebrew

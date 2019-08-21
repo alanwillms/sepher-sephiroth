@@ -1,11 +1,17 @@
 require 'prime'
+require_relative 'base_entry'
 
-class NumberEntry
-  attr_reader :number, :desc, :words, :tags
+class NumberEntry < BaseEntry
+  attr_reader :number, :words, :tags
+
+  @@sums = {}
+  (2..81).to_a.each do |n|
+    total = (1..n).sum
+    @@sums[total] = "1-#{n}"
+  end
 
   def initialize(number)
     @number = number
-    @desc = nil
     @words = []
     @tags = []
   end
@@ -18,17 +24,13 @@ class NumberEntry
     @words << word
   end
 
-  def append_desc(desc)
-    @desc ||= ''
-    @desc = (@desc + ' ' + desc + ' ').gsub(/\s{2,}/, ' ').strip
-  end
-
   def perfect?
     # static because it's too costly to calculate
     @number == 1 || @number == 6 || @number == 28 || @number == 496
   end
 
   def prime?
+    return true if @number == 1 # Liber D says it is
     Prime.prime? @number
   end
 
@@ -51,7 +53,27 @@ class NumberEntry
 
   def sum?
     # static because it's too costly to calculate 1-81
-    # @number == 2 || @number == 6 || @number == 10 # and so on...
+    @@sums[@number]
+  end
+
+  def factorial?
+    # static because it's too costly to calculate 1-81
+    return 1 if @number == 1
+    return 2 if @number == 2
+    return 3 if @number == 6
+    return 4 if @number == 24
+    return 5 if @number == 120
+    return 6 if @number == 720
+  end
+
+  def subfactorial?
+    # static because it's too costly to calculate 1-81
+    return 2 if @number == 1
+    return 3 if @number == 2
+    return 4 if @number == 9
+    return 5 if @number == 44
+    return 6 if @number == 265
+    return 7 if @number == 1854
   end
 
   def as_json(options={})
