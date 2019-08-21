@@ -9,6 +9,8 @@ tokens = {
   sub_factorial_of: ['\:\:\s*\d+\.', ':\.-\-'],
   pi: ['Pi'],
   square_root: ['Sq\.Rt\.'],
+  third_root: ['3rd\sRt\.'],
+  fourth_root: ['4th\sRt\.'],
   sum: ['SUM\s\(\d{1,}\-\d{1,}\)\.'],
   power: ['\d{1,}\sto\sthe\s\d{1,}..\spower\s{0,}\.{0,1}']
 }
@@ -17,7 +19,7 @@ book_entries = File.read('input.txt').split("\n\n")
 sepher_sephiroth = []
 
 # range = (1..3321)
-range = (1..5)
+range = (1..100)
 
 range.to_a.each do |number|
   # Look for the block
@@ -27,6 +29,13 @@ range.to_a.each do |number|
 
   # Extract number
   block = block.sub(Regexp.new("\s#{number}"), (' ' * (number.to_s.size + 1)))
+
+  # Extract book page number
+  regex = Regexp.new('(\{)(\d{1,})(a|b)(\})')
+  if m = block.match(regex)
+    match_size = m[2].size
+    block = block.sub(regex, ' ' + (' ' * match_size) + '  ')
+  end
 
   # Extract tags
   tokens.each do |token, expressions|
