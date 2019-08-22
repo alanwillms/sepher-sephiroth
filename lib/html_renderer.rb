@@ -17,9 +17,9 @@ class HtmlRenderer
       number_slot = '∜ ' + number_slot if number_entry.perfect_squared_square?
       number_slot = 'π ' + number_slot if number_entry.prime?
 
-      text_slot = '<u>||' + number_entry.subfactorial?.to_s + '</u>. ' + text_slot if number_entry.subfactorial?
-      text_slot = '<u>|' + number_entry.factorial?.to_s + '</u>. ' + text_slot if number_entry.factorial?
-      text_slot = 'Σ(' + number_entry.sum? + ') ' + text_slot if number_entry.sum?
+      text_slot = '<u>||' + number_entry.subfactorial.to_s + '</u>. ' + text_slot if number_entry.subfactorial?
+      text_slot = '<u>|' + number_entry.factorial.to_s + '</u>. ' + text_slot if number_entry.factorial?
+      text_slot = 'Σ(' + number_entry.sum + ') ' + text_slot if number_entry.sum?
 
       output += "<tr>\n"
       output += '<td class="has-text-centered">' + text_slot + "</td>\n"

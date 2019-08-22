@@ -30,5 +30,6 @@ class BaseEntry
       .gsub('Aquarius', '♒')
       .gsub('Pisces', '♓')
       .gsub('♑us', 'Capricornus')
+      .gsub('---', '—')
   end
 end

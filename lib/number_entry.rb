@@ -51,12 +51,12 @@ class NumberEntry < BaseEntry
     root % 1 == 0
   end
 
-  def sum?
+  def sum
     # static because it's too costly to calculate 1-81
     @@sums[@number]
   end
 
-  def factorial?
+  def factorial
     # static because it's too costly to calculate 1-81
     return 1 if @number == 1
     return 2 if @number == 2
@@ -66,7 +66,7 @@ class NumberEntry < BaseEntry
     return 6 if @number == 720
   end
 
-  def subfactorial?
+  def subfactorial
     # static because it's too costly to calculate 1-81
     return 2 if @number == 1
     return 3 if @number == 2
@@ -76,16 +76,15 @@ class NumberEntry < BaseEntry
     return 7 if @number == 1854
   end
 
-  def as_json(options={})
-    {
-      number: number,
-      desc: desc,
-      # tags: @tags.uniq,
-      words: @words
-    }
+  def sum?
+    !sum.nil?
   end
 
-  def to_json(*options)
-    as_json(*options).to_json(*options)
+  def factorial?
+    !factorial.nil?
+  end
+
+  def subfactorial?
+    !subfactorial.nil?
   end
 end

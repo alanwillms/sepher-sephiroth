@@ -15,16 +15,4 @@ class WordEntry < BaseEntry
   def gematria
     Hebrew.to_gematria(word)
   end
-
-  def as_json(options={})
-    {
-      word: word,
-      hebrew: hebrew,
-      desc: desc
-    }
-  end
-
-  def to_json(*options)
-    as_json(*options).to_json(*options)
-  end
 end
